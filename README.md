@@ -7,12 +7,12 @@ I am always enthusiastic about the opportunity to collaborate with all of you!
 
 ### Featured Publications
 
-- 🎉\[NeurIPS'23\][**Eliminating Domain Bias for Federated Learning in Representation Space**](https://arxiv.org/abs/2311.14975) _**Jianqing Zhang**, Yang Hua, Jian Cao, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Haibing Guan_
-- 🎉\[ICCV'23\][**GPFL: Simultaneously Learning Generic and Personalized Feature Information for Personalized Federated Learning**](https://arxiv.org/pdf/2308.10279v3.pdf) _**Jianqing Zhang**, Yang Hua, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Jian Cao, Haibing Guan_
-- 🎉\[KDD'23\][**FedCP: Separating Feature Information for Personalized Federated Learning via Conditional Policy**](https://arxiv.org/pdf/2307.01217v2.pdf) _**Jianqing Zhang**, Yang Hua, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Haibing Guan_
-- 🎉\[AAAI'23\][**FedALA: Adaptive Local Aggregation for Personalized Federated Learning**](https://arxiv.org/pdf/2212.01197v4.pdf) _**Jianqing Zhang**, Yang Hua, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Haibing Guan_
-- 🎉\[IEEE Transactions on Cognitive and Developmental Systems\][**pFedEff: An Efficient and Personalized Federated Cognitive Learning Framework in Multi-agent Systems**](https://ieeexplore.ieee.org/abstract/document/10163405/) _Hongjian Shi, **Jianqing Zhang**, Shuming Fan, Ruhui Ma, Haibing Guan_
-- 🎉\[Neurocomputing\][**TLSAN: Time-aware long-and short-term attention network for next-item recommendation**](https://doi.org/10.1016/j.neucom.2021.02.015) _**Jianqing Zhang**, Dongjing Wang, Dongjin Yu_
+- 🎉\[NeurIPS'23\] **Eliminating Domain Bias for Federated Learning in Representation Space**. _**Jianqing Zhang**, Yang Hua, Jian Cao, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Haibing Guan_ [\[paper\]](https://arxiv.org/abs/2311.14975) [\[code\]](https://github.com/TsingZ0/DBE)
+- 🎉\[ICCV'23\] **GPFL: Simultaneously Learning Generic and Personalized Feature Information for Personalized Federated Learning**. _**Jianqing Zhang**, Yang Hua, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Jian Cao, Haibing Guan_ [\[paper\]](https://arxiv.org/pdf/2308.10279v3.pdf) [\[code\]](https://github.com/TsingZ0/GPFL)
+- 🎉\[KDD'23\] **FedCP: Separating Feature Information for Personalized Federated Learning via Conditional Policy**. _**Jianqing Zhang**, Yang Hua, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Haibing Guan_ [\[paper\]](https://arxiv.org/pdf/2307.01217v2.pdf) [\[code\]](https://github.com/TsingZ0/FedCP)
+- 🎉\[AAAI'23\] **FedALA: Adaptive Local Aggregation for Personalized Federated Learning**. _**Jianqing Zhang**, Yang Hua, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Haibing Guan_ [\[paper\]](https://arxiv.org/pdf/2212.01197v4.pdf) [\[code\]](https://github.com/TsingZ0/FedALA)
+- 🎉\[IEEE Transactions on Cognitive and Developmental Systems\] **pFedEff: An Efficient and Personalized Federated Cognitive Learning Framework in Multi-agent Systems**. _Hongjian Shi, **Jianqing Zhang**, Shuming Fan, Ruhui Ma, Haibing Guan_ [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10163405/)
+- 🎉\[Neurocomputing\] **TLSAN: Time-aware long-and short-term attention network for next-item recommendation**. _**Jianqing Zhang**, Dongjing Wang, Dongjin Yu_ [\[paper\]](https://doi.org/10.1016/j.neucom.2021.02.015) [\[code\]](https://github.com/TsingZ0/TLSAN)
 
 
 ### Photography
