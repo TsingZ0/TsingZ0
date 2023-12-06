@@ -1,16 +1,23 @@
-### Hi there 👋
+### Biography
 
-<!--
-**TsingZ0/TsingZ0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Jianqing Zhang, a first-year PhD student in Computer Science at Shanghai Jiao Tong University under the supervision of [Jian Cao](https://scholar.google.com/citations?hl=zh-CN&user=aEacdCQAAAAJ). I completed my Master's degree at the same institution under the guidance of [Ruhui Ma](https://scholar.google.com/citations?hl=zh-CN&user=PcrtqDsAAAAJ) and [Tao Song](https://scholar.google.com/citations?hl=zh-CN&user=tIjK-3QAAAAJ). I earned my Bachelor's degree at Hangzhou Dianzi University under the guidance of [Dongjin Yu](https://scholar.google.com/citations?hl=zh-CN&user=DwG4deYAAAAJ) and [Dongjing Wang](https://dongjingwang.github.io/). My research interests include **Federated Learning**, **Transfer Learning**, and **Recommender Systems**. Both my PhD advisor and I believe that **collaboration**, which is also one of the core ideas of Federated Learning, is essential for scientific research. So far, I have collaborated with [Yang Liu](https://sites.google.com/site/yangliuveronica/) at Tsinghua University, [Yang Hua](https://scholar.google.com/citations?hl=zh-CN&user=N0tFi8MAAAAJ) at Queen's University Belfast, and [Hao Wang](https://intellisys.haow.ca/haowang/) at Louisiana State University. I also had the opportunity to intern at the Machine Learning Platform - Security and Trust of ByteDance. I am sincerely grateful for the invaluable knowledge and support from these exceptional individuals. Additionally, I am a photographer with a passion for capturing the beauty of the world.
 
-Here are some ideas to get you started:
+I am always enthusiastic about the opportunity to collaborate with all of you!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Featured Publications
+
+- 🎉\[NeurIPS'23\][**Eliminating Domain Bias for Federated Learning in Representation Space**](https://arxiv.org/abs/2311.14975) _**Jianqing Zhang**, Yang Hua, Jian Cao, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Haibing Guan_
+- 🎉\[ICCV'23\][**GPFL: Simultaneously Learning Generic and Personalized Feature Information for Personalized Federated Learning**](https://arxiv.org/pdf/2308.10279v3.pdf) _**Jianqing Zhang**, Yang Hua, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Jian Cao, Haibing Guan_
+- 🎉\[KDD'23\][**FedCP: Separating Feature Information for Personalized Federated Learning via Conditional Policy**](https://arxiv.org/pdf/2307.01217v2.pdf) _**Jianqing Zhang**, Yang Hua, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Haibing Guan_
+- 🎉\[AAAI'23\][**FedALA: Adaptive Local Aggregation for Personalized Federated Learning**](https://arxiv.org/pdf/2212.01197v4.pdf) _**Jianqing Zhang**, Yang Hua, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Haibing Guan_
+- 🎉\[IEEE Transactions on Cognitive and Developmental Systems\][**pFedEff: An Efficient and Personalized Federated Cognitive Learning Framework in Multi-agent Systems**](https://ieeexplore.ieee.org/abstract/document/10163405/) _Hongjian Shi, **Jianqing Zhang**, Shuming Fan, Ruhui Ma, Haibing Guan_
+- 🎉\[Neurocomputing\][**TLSAN: Time-aware long-and short-term attention network for next-item recommendation**](https://doi.org/10.1016/j.neucom.2021.02.015) _**Jianqing Zhang**, Dongjing Wang, Dongjin Yu_
+
+
+### Photography
+
+My photography gallery can be found at: https://tsing.tuchong.com/work/
+
+- 🎉\[2022\] International Photography Award (IPA) official selection
+- 🎉\[2020\] Top 30 in the Metro Yunchuang Photo Contest
