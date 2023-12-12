@@ -15,6 +15,11 @@ I am always enthusiastic about the opportunity to collaborate with all of you!
 - 🎉\[IEEE Transactions on Cognitive and Developmental Systems\] **pFedEff: An Efficient and Personalized Federated Cognitive Learning Framework in Multi-agent Systems**. _Hongjian Shi, **Jianqing Zhang**, Shuming Fan, Ruhui Ma, Haibing Guan_ [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10163405/)
 - 🎉\[Neurocomputing\] **TLSAN: Time-aware long-and short-term attention network for next-item recommendation**. _**Jianqing Zhang**, Dongjing Wang, Dongjin Yu_ [\[paper\]](https://doi.org/10.1016/j.neucom.2021.02.015) [\[code\]](https://github.com/TsingZ0/TLSAN)
 
+### Featured Projects
+
+- 🎉\[**PFLlib**\] Personalized Federated Learning Algorithm Library. [\[paper\]](https://arxiv.org/abs/2312.04992) [\[code\]](https://github.com/TsingZ0/PFLlib)
+- 🎉\[**HtFL**\] Data-Free Federated Learning Algorithms in Model Heterogeneous Scenarios. [\[code\]](https://github.com/TsingZ0/HtFL)
+
 
 ### Photography
 
