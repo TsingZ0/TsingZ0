@@ -9,7 +9,7 @@ I am always enthusiastic about the opportunity to collaborate with all of you!
 
 ### Featured Publications
 
-- 🎉\[AAAI'24\] **FedTGP: Trainable Global Prototypes with Adaptive-Margin-Enhanced Contrastive Learning for Data and Model Heterogeneity in Federated Learning**. _>>>**Jianqing Zhang**, Yang Liu, Yang Hua, Jian Cao<<<_ [\[code\]](https://github.com/TsingZ0/FedTGP)
+- 🎉\[AAAI'24\] **FedTGP: Trainable Global Prototypes with Adaptive-Margin-Enhanced Contrastive Learning for Data and Model Heterogeneity in Federated Learning**. _>>>**Jianqing Zhang**, Yang Liu, Yang Hua, Jian Cao<<<_ [\[paper\]](https://arxiv.org/abs/2401.03230) [\[code\]](https://github.com/TsingZ0/FedTGP)
 - 🎉\[NeurIPS'23\] **Eliminating Domain Bias for Federated Learning in Representation Space**. _>>>**Jianqing Zhang**, Yang Hua, Jian Cao, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Haibing Guan<<<_ [\[paper\]](https://arxiv.org/abs/2311.14975) [\[code\]](https://github.com/TsingZ0/DBE)
 - 🎉\[ICCV'23\] **GPFL: Simultaneously Learning Generic and Personalized Feature Information for Personalized Federated Learning**. _>>>**Jianqing Zhang**, Yang Hua, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Jian Cao, Haibing Guan<<<_ [\[paper\]](https://arxiv.org/pdf/2308.10279v3.pdf) [\[code\]](https://github.com/TsingZ0/GPFL)
 - 🎉\[KDD'23\] **FedCP: Separating Feature Information for Personalized Federated Learning via Conditional Policy**. _>>>**Jianqing Zhang**, Yang Hua, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Haibing Guan<<<_ [\[paper\]](https://arxiv.org/pdf/2307.01217v2.pdf) [\[code\]](https://github.com/TsingZ0/FedCP)
