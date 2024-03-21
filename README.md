@@ -11,6 +11,7 @@ I am always enthusiastic about the opportunity to collaborate with all of you!
 
 **Stage Ⅱ: heterogeneous federated learning**
 - 🎉\[**HtFLlib**\] Data-Free Federated Learning Algorithm Library in Data and Model Heterogeneous Scenarios. [\[code\]](https://github.com/TsingZ0/HtFL)
+- 🎉\[CVPR'24\] **An Upload-Efficient Scheme for Transferring Knowledge From a Server-Side Pre-trained Generator to Clients in Heterogeneous Federated Learning**. _>>>**Jianqing Zhang**, Yang Liu, Yang Hua, Jian Cao<<<_ [\[code\]](https://github.com/TsingZ0/FedKTL)
 - 🎉\[AAAI'24\] **FedTGP: Trainable Global Prototypes with Adaptive-Margin-Enhanced Contrastive Learning for Data and Model Heterogeneity in Federated Learning**. _>>>**Jianqing Zhang**, Yang Liu, Yang Hua, Jian Cao<<<_ [\[paper\]](https://arxiv.org/abs/2401.03230) [\[code\]](https://github.com/TsingZ0/FedTGP)
 
 **Stage Ⅰ: personalized federated learning**
