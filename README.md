@@ -7,7 +7,7 @@ I am Jianqing (Tsing) Zhang, a first-year PhD student in Computer Science at _Sh
 I am always enthusiastic about the opportunity to collaborate with all of you!
 
 
-### Featured Projects and Publications (refer to [Slides](./ME/ZJQ.pdf) for a detailed introduction)
+### Featured Projects and Publications (refer to the [slides](./ME/ZJQ.pdf) for a detailed introduction)
 
 **Stage Ⅱ: heterogeneous federated learning**
 - 🎉\[**HtFLlib**\] Data-Free Federated Learning Algorithm Library in Data and Model Heterogeneous Scenarios. [\[code\]](https://github.com/TsingZ0/HtFL)
