@@ -2,14 +2,7 @@
 
 > _Only do what interests you in your life. –––Jianqing Zhang_
 
-I am Jianqing (Tsing) Zhang, a first-year PhD student in Computer Science at _Shanghai Jiao Tong University (SJTU)_ under the supervision of [Jian Cao](https://scholar.google.com/citations?hl=zh-CN&user=aEacdCQAAAAJ). I completed my Master's degree at the same institution in 2023 and was fortunate to work with [Ruhui Ma](https://scholar.google.com/citations?hl=zh-CN&user=PcrtqDsAAAAJ) and [Tao Song](https://scholar.google.com/citations?hl=zh-CN&user=tIjK-3QAAAAJ) in 2023. I earned my Bachelor's degree at _Hangzhou Dianzi University (HDU)_ in 2020 and was fortunate to work with [Dongjin Yu](https://scholar.google.com/citations?hl=zh-CN&user=DwG4deYAAAAJ) and [Dongjing Wang](https://dongjingwang.github.io/). My research interests include **Federated Learning**, **Transfer Learning**, **Edge AI**, and **Recommender Systems**. Both my PhD advisor and I believe that ***collaboration***, which is also one of the core ideas of Federated Learning, is essential for scientific research. 
-
-
-### Collaborations
-
-- [Yang Liu](https://sites.google.com/site/yangliuveronica/) | _Tsinghua University_
-- [Yang Hua](https://scholar.google.com/citations?hl=zh-CN&user=N0tFi8MAAAAJ) | _Queen's University Belfast_
-- [Hao Wang](https://intellisys.haow.ca/haowang/) | _Louisiana State University_
+I am Jianqing (Tsing) Zhang, a first-year PhD student in Computer Science at _Shanghai Jiao Tong University_ under the supervision of [Jian Cao](https://scholar.google.com/citations?hl=zh-CN&user=aEacdCQAAAAJ). I completed my Master's degree at the same institution and was fortunate to work with [Ruhui Ma](https://scholar.google.com/citations?hl=zh-CN&user=PcrtqDsAAAAJ) and [Tao Song](https://scholar.google.com/citations?hl=zh-CN&user=tIjK-3QAAAAJ) in 2023. I earned my Bachelor's degree at _Hangzhou Dianzi University_ and was fortunate to work with [Dongjin Yu](https://scholar.google.com/citations?hl=zh-CN&user=DwG4deYAAAAJ) and [Dongjing Wang](https://dongjingwang.github.io/) in 2020. My research interests include **Federated Learning**, **Transfer Learning**, **Edge AI**, and **Recommender Systems**. Both my PhD advisor and I believe that ***collaboration***, which is also one of the core ideas of Federated Learning, is essential for scientific research. So far, I have worked with [Yang Liu](https://sites.google.com/site/yangliuveronica/) from _Tsinghua University_, [Yang Hua](https://scholar.google.com/citations?hl=zh-CN&user=N0tFi8MAAAAJ) from _Queen's University Belfast_, and [Hao Wang](https://intellisys.haow.ca/haowang/) from _Louisiana State University_. I am sincerely grateful for their invaluable knowledge and support. Additionally, I am also a photographer with a passion for capturing the beauty of the world. 
 
 
 ### Internships
