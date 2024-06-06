@@ -10,7 +10,7 @@ I am Jianqing (Tsing) Zhang, a first-year PhD student in Computer Science at _Sh
 - [ByteDance](https://www.bytedance.com/en) | _Machine Learning Platform - Security and Trust_ | Contribute to the open-source project [fedlearner](https://github.com/bytedance/fedlearner)
 
 
-### Featured Projects and Publications (refer to the [slides](./ME/ZJQ.pdf) for a detailed introduction)
+### Featured Projects and Publications (refer to the [slides](./ZJQ.pdf) for a detailed introduction)
 
 **Stage Ⅱ: heterogeneous federated learning**
 - 🎉\[**HtFLlib**\] Data-Free Federated Learning Algorithm Library in Data and Model Heterogeneous Scenarios. [\[code\]](https://github.com/TsingZ0/HtFL)
