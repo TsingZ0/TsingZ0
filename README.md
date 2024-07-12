@@ -12,8 +12,8 @@ I am Jianqing (Tsing) Zhang, a first-year PhD student in Computer Science under 
 
 ### Featured Projects and Publications (see [slides](./ZJQ.pdf) for a summary)
 
-<!-- **Stage Ⅲ: large and small models colloboration**
-- **FuseGen: PLM Fusion for Data-Generation Based Zero-Shot Learning**. _>>>Tianyuan Zou, Yang Liu, Peng Li, **Jianqing Zhang**, Jingjing Liu, Ya-Qin Zhang<<<_ [\[paper\]](https://arxiv.org/abs/2406.12527) [\[code\]](https://github.com/LindaLydia/FuseGen) -->
+**Stage Ⅲ: large and small models colloboration**
+- **FuseGen: PLM Fusion for Data-Generation Based Zero-Shot Learning**. _>>>Tianyuan Zou, Yang Liu, Peng Li, **Jianqing Zhang**, Jingjing Liu, Ya-Qin Zhang<<<_ [\[paper\]](https://arxiv.org/abs/2406.12527) [\[code\]](https://github.com/LindaLydia/FuseGen)
 
 **Stage Ⅱ: heterogeneous federated learning**
 - 🎉\[**HtFLlib**\] Data-Free Federated Learning Algorithm Library in Data and Model Heterogeneous Scenarios. [\[code\]](https://github.com/TsingZ0/HtFL)
