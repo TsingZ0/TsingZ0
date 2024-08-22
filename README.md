@@ -2,7 +2,9 @@
 
 > _Pursue what truly interests you in life. –––Jianqing Zhang_
 
-I am Jianqing (Tsing) Zhang, a first-year PhD student in Computer Science under the joint supervision of [Yang Liu](https://sites.google.com/site/yangliuveronica/) from _Tsinghua University_ and [Jian Cao](https://scholar.google.com/citations?hl=zh-CN&user=aEacdCQAAAAJ) from _Shanghai Jiao Tong University_. I completed my Master's degree at _Shanghai Jiao Tong University_ and was fortunate to work with [Ruhui Ma](https://scholar.google.com/citations?hl=zh-CN&user=PcrtqDsAAAAJ) and [Tao Song](https://scholar.google.com/citations?hl=zh-CN&user=tIjK-3QAAAAJ) in 2023. I earned my Bachelor's degree at _Hangzhou Dianzi University_ and was fortunate to work with [Dongjin Yu](https://scholar.google.com/citations?hl=zh-CN&user=DwG4deYAAAAJ) and [Dongjing Wang](https://dongjingwang.github.io/) in 2020. My research interests include **Large and Small Models Collaboration**, **Federated Learning**, **Domain Adaptation**, and **Recommender Systems**. Both my PhD advisors and I believe that ***collaboration***, which is also one of the core ideas of Federated Learning, is essential for scientific research. So far, I have worked with [Yang Hua](https://scholar.google.com/citations?hl=zh-CN&user=N0tFi8MAAAAJ) from _Queen's University Belfast_ and [Hao Wang](https://intellisys.haow.ca/haowang/) from _Stevens Institute of Technology_. I am sincerely grateful for their invaluable knowledge and support. I am also a photographer with a passion for capturing the world's beauty. 
+I am Jianqing (Tsing) Zhang, a first-year PhD student in Computer Science under the joint supervision of [Yang Liu](https://sites.google.com/site/yangliuveronica/) from _Tsinghua University_ and [Jian Cao](https://scholar.google.com/citations?hl=zh-CN&user=aEacdCQAAAAJ) from _Shanghai Jiao Tong University_. I completed my Master's degree at _Shanghai Jiao Tong University_ and was fortunate to work with [Ruhui Ma](https://scholar.google.com/citations?hl=zh-CN&user=PcrtqDsAAAAJ) and [Tao Song](https://scholar.google.com/citations?hl=zh-CN&user=tIjK-3QAAAAJ) in 2023. I earned my Bachelor's degree at _Hangzhou Dianzi University_ and was fortunate to work with [Dongjin Yu](https://scholar.google.com/citations?hl=zh-CN&user=DwG4deYAAAAJ) and [Dongjing Wang](https://dongjingwang.github.io/) in 2020. 
+
+My research interests include **Large and Small Models Collaboration**, **Federated Learning**, **Domain Adaptation**, and **Recommender Systems**. Both my PhD advisors and I believe that ***collaboration***, which is also one of the core ideas of Federated Learning, is essential for scientific research. So far, I have worked with [Yang Hua](https://scholar.google.com/citations?hl=zh-CN&user=N0tFi8MAAAAJ) from _Queen's University Belfast_ and [Hao Wang](https://intellisys.haow.ca/haowang/) from _Stevens Institute of Technology_. I am sincerely grateful for their invaluable knowledge and support. I am also a photographer with a passion for capturing the world's beauty. 
 
 
 ### Internships
@@ -12,12 +14,12 @@ I am Jianqing (Tsing) Zhang, a first-year PhD student in Computer Science under 
 
 ### Featured Projects and Publications (see [slides](./ZJQ.pdf) for a summary)
 
-<!-- **Stage Ⅲ: large and small models colloboration**
-- **FuseGen: PLM Fusion for Data-Generation Based Zero-Shot Learning**. _>>>Tianyuan Zou, Yang Liu, Peng Li, **Jianqing Zhang**, Jingjing Liu, Ya-Qin Zhang<<<_ [\[paper\]](https://arxiv.org/abs/2406.12527) [\[code\]](https://github.com/LindaLydia/FuseGen) -->
+**Stage Ⅲ: large and small models colloboration**
+- **FuseGen: PLM Fusion for Data-Generation Based Zero-Shot Learning**. _>>>Tianyuan Zou, Yang Liu, Peng Li, **Jianqing Zhang**, Jingjing Liu, Ya-Qin Zhang<<<_ [\[paper\]](https://arxiv.org/abs/2406.12527) [\[code\]](https://github.com/LindaLydia/FuseGen)
+- 🎉\[CVPR'24\] **An Upload-Efficient Scheme for Transferring Knowledge From a Server-Side Pre-trained Generator to Clients in Heterogeneous Federated Learning**. _>>>**Jianqing Zhang**, Yang Liu, Yang Hua, Jian Cao<<<_ [\[paper\]](https://arxiv.org/abs/2403.15760) [\[code\]](https://github.com/TsingZ0/FedKTL)
 
 **Stage Ⅱ: heterogeneous federated learning**
 - 🎉\[**HtFLlib**\] Data-Free Federated Learning Algorithm Library in Data and Model Heterogeneous Scenarios. [\[code\]](https://github.com/TsingZ0/HtFL)
-- 🎉\[CVPR'24\] **An Upload-Efficient Scheme for Transferring Knowledge From a Server-Side Pre-trained Generator to Clients in Heterogeneous Federated Learning**. _>>>**Jianqing Zhang**, Yang Liu, Yang Hua, Jian Cao<<<_ [\[paper\]](https://arxiv.org/abs/2403.15760) [\[code\]](https://github.com/TsingZ0/FedKTL)
 - 🎉\[AAAI'24\] **FedTGP: Trainable Global Prototypes with Adaptive-Margin-Enhanced Contrastive Learning for Data and Model Heterogeneity in Federated Learning**. _>>>**Jianqing Zhang**, Yang Liu, Yang Hua, Jian Cao<<<_ [\[paper\]](https://arxiv.org/abs/2401.03230) [\[code\]](https://github.com/TsingZ0/FedTGP)
 
 **Stage Ⅰ: personalized federated learning**
