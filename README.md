@@ -41,5 +41,5 @@ My research interests include **Generative Model-Assisted Joint Learning**, **Sy
 
 My photography gallery can be found at: https://tsing.tuchong.com/work/
 
-- 🎉\[2022\] International Photography Award (IPA) official selection
-- 🎉\[2020\] Top 30 in the Metro Yunchuang Photo Contest
+- 🎉\[2022\] International Photography Award (IPA) Official Selection
+- 🎉\[2020\] Top 30 in the Metro Yunchuang Photo Competition
