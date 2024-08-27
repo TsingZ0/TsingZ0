@@ -20,7 +20,7 @@ My research interests include **Generative Model-Assisted Joint Learning**, **Sy
 - **FuseGen: PLM Fusion for Data-Generation Based Zero-Shot Learning**. _>>>Tianyuan Zou, Yang Liu, Peng Li, **Jianqing Zhang**, Jingjing Liu, Ya-Qin Zhang<<<_ [\[paper\]](https://arxiv.org/abs/2406.12527) [\[code\]](https://github.com/LindaLydia/FuseGen)
 
 **Stage Ⅱ: Heterogeneous Federated Learning**
-- 🎉\[**HtFLlib**\] Data-Free Federated Learning Algorithm Library in Data and Model Heterogeneous Scenarios. [\[code\]](https://github.com/TsingZ0/HtFL)
+- 🎉\[**HtFLlib**\] **Data-Free Federated Learning Algorithm Library in Data and Model Heterogeneous Scenarios**. [\[code\]](https://github.com/TsingZ0/HtFL)
 - 🎉\[AAAI'24\] **FedTGP: Trainable Global Prototypes with Adaptive-Margin-Enhanced Contrastive Learning for Data and Model Heterogeneity in Federated Learning**. _>>>**Jianqing Zhang**, Yang Liu, Yang Hua, Jian Cao<<<_ [\[paper\]](https://arxiv.org/abs/2401.03230) [\[code\]](https://github.com/TsingZ0/FedTGP)
 
 **Stage Ⅰ: Personalized Federated Learning**
