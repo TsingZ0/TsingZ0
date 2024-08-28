@@ -13,7 +13,7 @@ My research interests include **Large Model-Assisted Collaborative Learning for 
 
 ### Featured Projects and Publications (see [slides](./ZJQ.pdf) for a summary)
 
-**Stage Ⅳ (Large and Small Models): Large Model-Assisted Collaborative Learning for Vertical Domain Small Models**
+**Stage Ⅳ (Large and Small Model Collaboration): Large Model-Assisted Collaborative Learning for Vertical Domain Small Models**
 - 🎉\[CVPR'24\] **An Upload-Efficient Scheme for Transferring Knowledge From a Server-Side Pre-trained Generator to Clients in Heterogeneous Federated Learning**. _>>>**Jianqing Zhang**, Yang Liu, Yang Hua, Jian Cao<<<_ [\[paper\]](https://arxiv.org/abs/2403.15760) [\[code\]](https://github.com/TsingZ0/FedKTL)
 
 **Stage Ⅲ (Large Model): Privacy-Preserving Synthetic Data Generation**
