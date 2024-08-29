@@ -4,7 +4,7 @@
 
 I am Jianqing (Tsing) Zhang, a second-year PhD student in Computer Science, co-supervised by [Yang Liu](https://sites.google.com/site/yangliuveronica/) at _Tsinghua University_ and [Jian Cao](https://scholar.google.com/citations?hl=zh-CN&user=aEacdCQAAAAJ) at _Shanghai Jiao Tong University_. I completed my Master’s degree at _Shanghai Jiao Tong University_ in 2023, where I had the privilege of working with [Ruhui Ma](https://scholar.google.com/citations?hl=zh-CN&user=PcrtqDsAAAAJ) and [Tao Song](https://scholar.google.com/citations?hl=zh-CN&user=tIjK-3QAAAAJ). I earned my Bachelor’s degree at _Hangzhou Dianzi University_ in 2020, and was fortunate to work with [Dongjin Yu](https://scholar.google.com/citations?hl=zh-CN&user=DwG4deYAAAAJ) and [Dongjing Wang](https://dongjingwang.github.io/).
 
-My research interests include **Large Model-Assisted Collaborative Learning for Vertical Domain Small Models**, **Privacy-Preserving Synthetic Data Generation**, **Federated Learning**, **Knowledge Distillation**, and **Recommender Systems**. My PhD advisors and I strongly believe that ***collaboration***—a core principle of Federated Learning—is fundamental to advancing scientific research. To date, I have had the privilege of collaborating with [Yang Hua](https://scholar.google.com/citations?hl=zh-CN&user=N0tFi8MAAAAJ) from _Queen's University Belfast_ and [Hao Wang](https://intellisys.haow.ca/haowang/) from _Stevens Institute of Technology_, and I am deeply grateful for their invaluable insights and support. Additionally, I am a passionate photographer, always seeking to capture the beauty of the world through my lens.
+My research interests include **Large Model-Assisted Collaborative Learning**, **Privacy-Preserving Synthetic Data Generation**, **Federated Learning**, **Knowledge Distillation**, and **Recommender Systems**. My PhD advisors and I strongly believe that ***collaboration***—a core principle of Federated Learning—is fundamental to advancing scientific research. To date, I have had the privilege of collaborating with [Yang Hua](https://scholar.google.com/citations?hl=zh-CN&user=N0tFi8MAAAAJ) from _Queen's University Belfast_ and [Hao Wang](https://intellisys.haow.ca/haowang/) from _Stevens Institute of Technology_, and I am deeply grateful for their invaluable insights and support. Additionally, I am a passionate photographer, always seeking to capture the beauty of the world through my lens.
 
 ### Internships
 
@@ -13,7 +13,7 @@ My research interests include **Large Model-Assisted Collaborative Learning for 
 
 ### Featured Projects and Publications (see [slides](./ZJQ.pdf) for a summary)
 
-**Stage Ⅳ (Large and Small Models Collaboration): Large Model-Assisted Collaborative Learning for Vertical Domain Small Models**
+**Stage Ⅳ (Large and Small Models Collaboration): Large Model-Assisted Collaborative Learning**
 - 🎉\[CVPR'24\] **An Upload-Efficient Scheme for Transferring Knowledge From a Server-Side Pre-trained Generator to Clients in Heterogeneous Federated Learning**. _>>>**Jianqing Zhang**, Yang Liu, Yang Hua, Jian Cao<<<_ [\[paper\]](https://arxiv.org/abs/2403.15760) [\[code\]](https://github.com/TsingZ0/FedKTL)
 
 **Stage Ⅲ (Large Model): Privacy-Preserving Synthetic Data Generation**
