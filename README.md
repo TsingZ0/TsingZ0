@@ -19,11 +19,11 @@ My research interests include **Large Model-Assisted Collaborative Learning**, *
 **Stage Ⅲ (Large Model): Privacy-Preserving Synthetic Data Generation**
 - **FuseGen: PLM Fusion for Data-Generation Based Zero-Shot Learning**. _>>>Tianyuan Zou, Yang Liu, Peng Li, **Jianqing Zhang**, Jingjing Liu, Ya-Qin Zhang<<<_ [\[paper\]](https://arxiv.org/abs/2406.12527) [\[code\]](https://github.com/LindaLydia/FuseGen)
 
-**Stage Ⅱ (Vertical Domain Small Models): Heterogeneous Federated Learning**
+**Stage Ⅱ (Small Models): Heterogeneous Federated Learning**
 - 🎉\[**HtFLlib**\] **Heterogeneous Federated Learning Algorithm Library**. [\[code\]](https://github.com/TsingZ0/HtFL)
 - 🎉\[AAAI'24\] **FedTGP: Trainable Global Prototypes with Adaptive-Margin-Enhanced Contrastive Learning for Data and Model Heterogeneity in Federated Learning**. _>>>**Jianqing Zhang**, Yang Liu, Yang Hua, Jian Cao<<<_ [\[paper\]](https://arxiv.org/abs/2401.03230) [\[code\]](https://github.com/TsingZ0/FedTGP)
 
-**Stage Ⅰ (Vertical Domain Small Models): Personalized Federated Learning**
+**Stage Ⅰ (Small Models): Personalized Federated Learning**
 - 🎉\[**PFLlib**\] **Personalized Federated Learning Algorithm Library**. [\[paper\]](https://arxiv.org/abs/2312.04992) [\[code\]](https://github.com/TsingZ0/PFLlib) _>>>**Jianqing Zhang**, Yang Liu, Yang Hua, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Jian Cao<<<_
 - 🎉\[NeurIPS'23\] **Eliminating Domain Bias for Federated Learning in Representation Space**. _>>>**Jianqing Zhang**, Yang Hua, Jian Cao, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Haibing Guan<<<_ [\[paper\]](https://arxiv.org/abs/2311.14975) [\[code\]](https://github.com/TsingZ0/DBE
 )
