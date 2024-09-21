@@ -20,7 +20,7 @@ My research interests include **Customizable Synthetic Data Generation**, **Larg
 ### Featured Publications
 
 **Stage Ⅳ (Large Models): Customizable Synthetic Data Generation**
-- **FuseGen: PLM Fusion for Data-Generation Based Zero-Shot Learning**. _>>>Tianyuan Zou, Yang Liu, Peng Li, **Jianqing Zhang**, Jingjing Liu, Ya-Qin Zhang<<<_ [\[paper\]](https://arxiv.org/abs/2406.12527) [\[code\]](https://github.com/LindaLydia/FuseGen)
+- 🎉\[EMNLP'24\] **FuseGen: PLM Fusion for Data-Generation Based Zero-Shot Learning**. _>>>Tianyuan Zou, Yang Liu, Peng Li, **Jianqing Zhang**, Jingjing Liu, Ya-Qin Zhang<<<_ [\[paper\]](https://arxiv.org/abs/2406.12527) [\[code\]](https://github.com/LindaLydia/FuseGen)
 
 **Stage Ⅲ (Large and Small Models): Large and Small Models Collaboration**
 - 🎉\[CVPR'24\] **An Upload-Efficient Scheme for Transferring Knowledge From a Server-Side Pre-trained Generator to Clients in Heterogeneous Federated Learning**. _>>>**Jianqing Zhang**, Yang Liu, Yang Hua, Jian Cao<<<_ [\[paper\]](https://arxiv.org/abs/2403.15760) [\[code\]](https://github.com/TsingZ0/FedKTL)
