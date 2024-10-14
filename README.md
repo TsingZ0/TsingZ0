@@ -14,7 +14,8 @@ I firmly believe that ***collaboration***—a core principle of Federated Learni
 
 ### Open-source Software
 
-- 🎉\[**PFLlib (1K+ stars)**\] **Personalized Federated Learning Algorithm Library**. [\[paper\]](https://arxiv.org/abs/2312.04992) [\[code\]](https://github.com/TsingZ0/PFLlib) _>>>**Jianqing Zhang**, Yang Liu, Yang Hua, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Jian Cao<<<_
+- 🎉\[**PFLlib (1K+ stars)**\] **Personalized Federated Learning Algorithm Library**. [\[paper\]](https://arxiv.org/abs/2312.04992) [\[code\]](https://github.com/TsingZ0/PFLlib) 
+  - **Jianqing Zhang**, Yang Liu, Yang Hua, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Jian Cao
 - 🎉\[**HtFLlib**\] **Heterogeneous Federated Learning Algorithm Library**. [\[code\]](https://github.com/TsingZ0/HtFL)
 - 🎉\[**FL-IoT**\] **Federated Learning Algorithms in IoT Environments**. [\[code\]](https://github.com/TsingZ0/FL-IoT)
 
@@ -22,26 +23,37 @@ I firmly believe that ***collaboration***—a core principle of Federated Learni
 ### Featured Publications
 
 **Stage Ⅳ (Large Models): Customizable Synthetic Data Generation**
-- 🎉\[EMNLP'24\] **FuseGen: PLM Fusion for Data-Generation Based Zero-Shot Learning**. _>>>Tianyuan Zou, Yang Liu, Peng Li, **Jianqing Zhang**, Jingjing Liu, Ya-Qin Zhang<<<_ [\[paper\]](https://arxiv.org/abs/2406.12527) [\[code\]](https://github.com/LindaLydia/FuseGen)
+- 🎉\[EMNLP'24\] **FuseGen: PLM Fusion for Data-Generation Based Zero-Shot Learning**. [\[paper\]](https://arxiv.org/abs/2406.12527) [\[code\]](https://github.com/LindaLydia/FuseGen)
+  - Tianyuan Zou, Yang Liu, Peng Li, **Jianqing Zhang**, Jingjing Liu, Ya-Qin Zhang 
 
 **Stage Ⅲ (Large and Small Models): Large and Small Models Collaboration**
-- 🎉\[CVPR'24\] **An Upload-Efficient Scheme for Transferring Knowledge From a Server-Side Pre-trained Generator to Clients in Heterogeneous Federated Learning**. _>>>**Jianqing Zhang**, Yang Liu, Yang Hua, Jian Cao<<<_ [\[paper\]](https://arxiv.org/abs/2403.15760) [\[code\]](https://github.com/TsingZ0/FedKTL)
+- 🎉\[CVPR'24\] **An Upload-Efficient Scheme for Transferring Knowledge From a Server-Side Pre-trained Generator to Clients in Heterogeneous Federated Learning**. [\[paper\]](https://arxiv.org/abs/2403.15760) [\[code\]](https://github.com/TsingZ0/FedKTL)
+  - **Jianqing Zhang**, Yang Liu, Yang Hua, Jian Cao 
 
 **Stage Ⅱ (Small Models): Heterogeneous Federated Learning**
-- **FedL2G: Learning to Guide Local Training in Heterogeneous Federated Learning**. _>>>**Jianqing Zhang**, Yang Liu, Yang Hua, Jian Cao, Qiang Yang<<<_ [\[paper\]](https://arxiv.org/abs/2410.06490) [\[code\]](https://github.com/TsingZ0/FedL2G)
-- 🎉\[CVPR'24\] **An Upload-Efficient Scheme for Transferring Knowledge From a Server-Side Pre-trained Generator to Clients in Heterogeneous Federated Learning**. _>>>**Jianqing Zhang**, Yang Liu, Yang Hua, Jian Cao<<<_ [\[paper\]](https://arxiv.org/abs/2403.15760) [\[code\]](https://github.com/TsingZ0/FedKTL)
-- 🎉\[AAAI'24\] **FedTGP: Trainable Global Prototypes with Adaptive-Margin-Enhanced Contrastive Learning for Data and Model Heterogeneity in Federated Learning**. _>>>**Jianqing Zhang**, Yang Liu, Yang Hua, Jian Cao<<<_ [\[paper\]](https://arxiv.org/abs/2401.03230) [\[code\]](https://github.com/TsingZ0/FedTGP)
+- **FedL2G: Learning to Guide Local Training in Heterogeneous Federated Learning**. [\[paper\]](https://arxiv.org/abs/2410.06490) [\[code\]](https://github.com/TsingZ0/FedL2G)
+  - **Jianqing Zhang**, Yang Liu, Yang Hua, Jian Cao, Qiang Yang 
+- 🎉\[CVPR'24\] **An Upload-Efficient Scheme for Transferring Knowledge From a Server-Side Pre-trained Generator to Clients in Heterogeneous Federated Learning**. [\[paper\]](https://arxiv.org/abs/2403.15760) [\[code\]](https://github.com/TsingZ0/FedKTL)
+  - **Jianqing Zhang**, Yang Liu, Yang Hua, Jian Cao 
+- 🎉\[AAAI'24\] **FedTGP: Trainable Global Prototypes with Adaptive-Margin-Enhanced Contrastive Learning for Data and Model Heterogeneity in Federated Learning**. [\[paper\]](https://arxiv.org/abs/2401.03230) [\[code\]](https://github.com/TsingZ0/FedTGP)
+  - **Jianqing Zhang**, Yang Liu, Yang Hua, Jian Cao 
 
 **Stage Ⅰ (Small Models): Personalized Federated Learning**
-- 🎉\[NeurIPS'23\] **Eliminating Domain Bias for Federated Learning in Representation Space**. _>>>**Jianqing Zhang**, Yang Hua, Jian Cao, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Haibing Guan<<<_ [\[paper\]](https://arxiv.org/abs/2311.14975) [\[code\]](https://github.com/TsingZ0/DBE
+- 🎉\[NeurIPS'23\] **Eliminating Domain Bias for Federated Learning in Representation Space**. [\[paper\]](https://arxiv.org/abs/2311.14975) [\[code\]](https://github.com/TsingZ0/DBE
 )
-- 🎉\[ICCV'23\] **GPFL: Simultaneously Learning Generic and Personalized Feature Information for Personalized Federated Learning**. _>>>**Jianqing Zhang**, Yang Hua, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Jian Cao, Haibing Guan<<<_ [\[paper\]](https://arxiv.org/pdf/2308.10279v3.pdf) [\[code\]](https://github.com/TsingZ0/GPFL)
-- 🎉\[KDD'23\] **FedCP: Separating Feature Information for Personalized Federated Learning via Conditional Policy**. _>>>**Jianqing Zhang**, Yang Hua, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Haibing Guan<<<_ [\[paper\]](https://arxiv.org/pdf/2307.01217v2.pdf) [\[code\]](https://github.com/TsingZ0/FedCP)
-- 🎉\[AAAI'23\] **FedALA: Adaptive Local Aggregation for Personalized Federated Learning**. _>>>**Jianqing Zhang**, Yang Hua, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Haibing Guan<<<_ [\[paper\]](https://arxiv.org/pdf/2212.01197v4.pdf) [\[code\]](https://github.com/TsingZ0/FedALA)
+  - **Jianqing Zhang**, Yang Hua, Jian Cao, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Haibing Guan 
+- 🎉\[ICCV'23\] **GPFL: Simultaneously Learning Generic and Personalized Feature Information for Personalized Federated Learning**. [\[paper\]](https://arxiv.org/pdf/2308.10279v3.pdf) [\[code\]](https://github.com/TsingZ0/GPFL)
+  - **Jianqing Zhang**, Yang Hua, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Jian Cao, Haibing Guan 
+- 🎉\[KDD'23\] **FedCP: Separating Feature Information for Personalized Federated Learning via Conditional Policy**. [\[paper\]](https://arxiv.org/pdf/2307.01217v2.pdf) [\[code\]](https://github.com/TsingZ0/FedCP)
+  - **Jianqing Zhang**, Yang Hua, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Haibing Guan 
+- 🎉\[AAAI'23\] **FedALA: Adaptive Local Aggregation for Personalized Federated Learning**. [\[paper\]](https://arxiv.org/pdf/2212.01197v4.pdf) [\[code\]](https://github.com/TsingZ0/FedALA)
+  - **Jianqing Zhang**, Yang Hua, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Haibing Guan 
 
 **Other Work**
-- 🎉\[IEEE Transactions on Cognitive and Developmental Systems\] **pFedEff: An Efficient and Personalized Federated Cognitive Learning Framework in Multi-agent Systems**. _>>>Hongjian Shi, **Jianqing Zhang**, Shuming Fan, Ruhui Ma, Haibing Guan<<<_ [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10163405/)
-- 🎉\[Neurocomputing\] **TLSAN: Time-aware long-and short-term attention network for next-item recommendation**. _>>>**Jianqing Zhang**, Dongjing Wang, Dongjin Yu<<<_ [\[paper\]](https://doi.org/10.1016/j.neucom.2021.02.015) [\[code\]](https://github.com/TsingZ0/TLSAN)
+- 🎉\[IEEE Transactions on Cognitive and Developmental Systems\] **pFedEff: An Efficient and Personalized Federated Cognitive Learning Framework in Multi-agent Systems**. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10163405/)
+  - Hongjian Shi, **Jianqing Zhang**, Shuming Fan, Ruhui Ma, Haibing Guan 
+- 🎉\[Neurocomputing\] **TLSAN: Time-aware long-and short-term attention network for next-item recommendation**. [\[paper\]](https://doi.org/10.1016/j.neucom.2021.02.015) [\[code\]](https://github.com/TsingZ0/TLSAN)
+  - **Jianqing Zhang**, Dongjing Wang, Dongjin Yu 
 
 
 ### Photography
