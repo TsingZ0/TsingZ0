@@ -4,7 +4,7 @@
 
 I am Jianqing (Tsing) Zhang, a second-year PhD student in Computer Science, co-supervised by [Yang Liu](https://sites.google.com/site/yangliuveronica/) at _Tsinghua University_ and [Jian Cao](https://scholar.google.com/citations?hl=zh-CN&user=aEacdCQAAAAJ) at _Shanghai Jiao Tong University_. I completed my Master's degree at _Shanghai Jiao Tong University_ in 2023, where I had the privilege of working with [Ruhui Ma](https://scholar.google.com/citations?hl=zh-CN&user=PcrtqDsAAAAJ), [Tao Song](https://scholar.google.com/citations?hl=zh-CN&user=tIjK-3QAAAAJ), [Yang Hua](https://scholar.google.com/citations?hl=zh-CN&user=N0tFi8MAAAAJ) (_Queen's University Belfast_), and [Hao Wang](https://intellisys.haow.ca/haowang/) (_Stevens Institute of Technology_). I earned my Bachelor's degree at _Hangzhou Dianzi University_ in 2020, and was fortunate to work with [Dongjin Yu](https://scholar.google.com/citations?hl=zh-CN&user=DwG4deYAAAAJ) and [Dongjing Wang](https://dongjingwang.github.io/).
 
-My research interests include **Customizable Synthetic Data Generation**, **Large and Small Models Collaboration**, and **Federated Learning**. Please see [slides](./slides_for_summary.pdf) for a summary. Additionally, I am a passionate photographer, always seeking to capture the beauty of the world through my lens.
+My research interests include **Synthetic Data Generation**, **Generative Model Assisted Learning**, and **Federated Learning**. Please see [slides](./slides_for_summary.pdf) for a summary. Additionally, I am a passionate photographer, always seeking to capture the beauty of the world through my lens.
 
 I firmly believe that ***collaboration***—a core principle of Federated Learning—is essential for advancing scientific research. I am always eager to collaborate with passionate and like-minded partners.
 
@@ -22,11 +22,11 @@ I firmly believe that ***collaboration***—a core principle of Federated Learni
 
 ### Featured Publications
 
-**Stage Ⅳ (Large Models): Customizable Synthetic Data Generation**
+**Stage Ⅳ (Large Models): Synthetic Data Generation**
 - 🎉\[EMNLP'24\] **FuseGen: PLM Fusion for Data-Generation Based Zero-Shot Learning**. [\[paper\]](https://arxiv.org/abs/2406.12527) [\[code\]](https://github.com/LindaLydia/FuseGen)
   - Tianyuan Zou, Yang Liu, Peng Li, **Jianqing Zhang**, Jingjing Liu, Ya-Qin Zhang 
 
-**Stage Ⅲ (Large and Small Models): Large and Small Models Collaboration**
+**Stage Ⅲ (Large and Small Models): Generative Model Assisted Learning**
 - 🎉\[CVPR'24\] **An Upload-Efficient Scheme for Transferring Knowledge From a Server-Side Pre-trained Generator to Clients in Heterogeneous Federated Learning**. [\[paper\]](https://arxiv.org/abs/2403.15760) [\[code\]](https://github.com/TsingZ0/FedKTL)
   - **Jianqing Zhang**, Yang Liu, Yang Hua, Jian Cao 
 
