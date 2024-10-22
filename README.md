@@ -20,7 +20,7 @@ I firmly believe that ***collaboration***—a core principle of Federated Learni
 - 🎉\[**FL-IoT**\] **Federated Learning Algorithms in IoT Environments**. [\[code\]](https://github.com/TsingZ0/FL-IoT)
 
 
-### Featured Publications
+### Featured Publications ([Google Scholar](https://scholar.google.com/citations?user=lppe2vwAAAAJ&hl=zh-CN))
 
 **Stage Ⅳ (Large Models): Synthetic Data Generation**
 - 🎉\[EMNLP'24\] **FuseGen: PLM Fusion for Data-Generation Based Zero-Shot Learning**. [\[paper\]](https://arxiv.org/abs/2406.12527) [\[code\]](https://github.com/LindaLydia/FuseGen)
