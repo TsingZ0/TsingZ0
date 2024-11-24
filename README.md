@@ -8,9 +8,6 @@ My research interests include **Synthetic Dataset Generation**, **Cloud-Edge Col
 
 I am seeking **research internships, visiting positions, and postdocs**. Feel free to contact me if interested!
 
-### Internships
-
-- [ByteDance](https://www.bytedance.com/en) | _Machine Learning Platform - Security and Trust_ | Contributor to the open-source project [FedLearner](https://github.com/bytedance/fedlearner)
 
 ### Open-source Software
 
@@ -50,6 +47,24 @@ I am seeking **research internships, visiting positions, and postdocs**. Feel fr
   - Hongjian Shi, **Jianqing Zhang**, Shuming Fan, Ruhui Ma, Haibing Guan 
 - 🎉\[Neurocomputing\] **TLSAN: Time-aware long-and short-term attention network for next-item recommendation**. [\[paper\]](https://doi.org/10.1016/j.neucom.2021.02.015) [\[code\]](https://github.com/TsingZ0/TLSAN)
   - **Jianqing Zhang**, Dongjing Wang, Dongjin Yu 
+
+
+### Internships
+
+- [ByteDance](https://www.bytedance.com/en) | _Machine Learning Platform - Security and Trust_ | Contributor to the open-source project [FedLearner](https://github.com/bytedance/fedlearner)
+
+
+### Service
+
+- Invited conference reviewer for NeurIPS'24 and ICLR'25.
+- Invited journal reviewer for ACM TKDD and ACM TIST. 
+
+
+### Awards
+
+- National doctoral scholarship
+- International Photography Award (IPA) official selection
+- Bronze award of "Internet Plus" Competition
 
 
 ### Photography
