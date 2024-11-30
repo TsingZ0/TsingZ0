@@ -9,6 +9,12 @@ My research interests include **Synthetic Dataset Generation**, **Cloud-Edge Col
 I am seeking **research internships, visiting positions, and postdocs**. Feel free to contact me if interested!
 
 
+
+### Intern & Visitor
+
+- [ByteDance](https://www.bytedance.com/en) | _Machine Learning Platform - Security and Trust_ | Contributor to the open-source project [FedLearner](https://github.com/bytedance/fedlearner)
+- [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en/) | [SANDS lab](https://sands.kaust.edu.sa/#sands)
+
 ### Open-source Software
 
 - 🎉\[**PFLlib (1K+ stars)**\] **Personalized Federated Learning Algorithm Library**. [\[paper\]](https://arxiv.org/abs/2312.04992) [\[code\]](https://github.com/TsingZ0/PFLlib) 
@@ -47,11 +53,6 @@ I am seeking **research internships, visiting positions, and postdocs**. Feel fr
   - Hongjian Shi, **Jianqing Zhang**, Shuming Fan, Ruhui Ma, Haibing Guan 
 - 🎉\[Neurocomputing\] **TLSAN: Time-aware long-and short-term attention network for next-item recommendation**. [\[paper\]](https://doi.org/10.1016/j.neucom.2021.02.015) [\[code\]](https://github.com/TsingZ0/TLSAN)
   - **Jianqing Zhang**, Dongjing Wang, Dongjin Yu 
-
-
-### Internships
-
-- [ByteDance](https://www.bytedance.com/en) | _Machine Learning Platform - Security and Trust_ | Contributor to the open-source project [FedLearner](https://github.com/bytedance/fedlearner)
 
 
 ### Service
