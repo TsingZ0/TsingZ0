@@ -13,7 +13,7 @@ I am seeking **research internships, visiting positions, and postdocs**. Feel fr
 ### Intern & Visitor
 
 - [ByteDance](https://www.bytedance.com/en) | _Machine Learning Platform - Security and Trust_ | Contributor to the open-source project [FedLearner](https://github.com/bytedance/fedlearner)
-- [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en/) | [SANDS lab](https://sands.kaust.edu.sa/#sands) | Machine Learning System with Heterogeneous Devices
+- [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en/) | [SANDS lab](https://sands.kaust.edu.sa/#sands) | Real-world Machine Learning System with Heterogeneous Devices
 
 ### Open-source Software
 
