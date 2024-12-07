@@ -1,7 +1,5 @@
 ### Biography
 
-> _Pursue what truly interests you in life. –––Jianqing Zhang_
-
 I am Jianqing Zhang, a second-year PhD student in Computer Science, co-supervised by [Yang Liu](https://sites.google.com/site/yangliuveronica/) at _Tsinghua University_ and [Jian Cao](https://scholar.google.com/citations?hl=zh-CN&user=aEacdCQAAAAJ) at _Shanghai Jiao Tong University_. Previously, I was fortunate to work at [Shanghai Key Laboratory of Scalable Computing and Systems](https://tcloud.sjtu.edu.cn/) and earned my Master's degree in 2023 from _Shanghai Jiao Tong University_.
 
 My research interests include **Synthetic Dataset Generation**, **Cloud-Edge Collaboration**, and **Federated Learning**. I am also a passionate photographer, always seeking to capture the beauty of the world through my lens.
