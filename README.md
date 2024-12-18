@@ -11,7 +11,6 @@ I am seeking **research internships, visiting positions, and postdocs**. Feel fr
 ### Intern & Visit
 
 - [ByteDance](https://www.bytedance.com/en) | *Machine Learning Platform - Security and Trust* 
-- [Sony](https://www.sony.com/en/) | [*Sony AI*](https://ai.sony/) 
 - [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en/) | [*SANDS lab*](https://sands.kaust.edu.sa/#sands)
 
 ### Open-source Software
