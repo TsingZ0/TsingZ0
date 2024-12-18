@@ -8,7 +8,7 @@ I am seeking **research internships, visiting positions, and postdocs**. Feel fr
 
 
 
-### Intern & Visit
+### Internships
 
 - [ByteDance](https://www.bytedance.com/en) | *Machine Learning Platform - Security and Trust* 
 - [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en/) | [*SANDS lab*](https://sands.kaust.edu.sa/#sands)
