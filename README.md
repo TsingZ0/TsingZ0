@@ -16,9 +16,9 @@ I am seeking **research internships, visiting positions, and postdocs**. Feel fr
 
 ### Open-source Software
 
-- 🎉\[**PFLlib (1K+ stars)**\] **Personalized Federated Learning Algorithm Library**. [\[paper\]](https://arxiv.org/abs/2312.04992) [\[code\]](https://github.com/TsingZ0/PFLlib) 
+- 🎉\[**PFLlib (1K+ stars)**\] **Personalized Federated Learning Library**. [\[paper\]](https://arxiv.org/abs/2312.04992) [\[code\]](https://github.com/TsingZ0/PFLlib) 
   - **Jianqing Zhang**, Yang Liu, Yang Hua, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Jian Cao
-- 🎉\[**HtFLlib**\] **Heterogeneous Federated Learning Algorithm Library**. [\[code\]](https://github.com/TsingZ0/HtFL)
+- 🎉\[**HtFLlib**\] **Heterogeneous Federated Learning Library**. [\[code\]](https://github.com/TsingZ0/HtFL)
 - 🎉\[**FL-IoT**\] **Federated Learning Algorithms in IoT Environments**. [\[code\]](https://github.com/TsingZ0/FL-IoT)
 
 
