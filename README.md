@@ -67,7 +67,7 @@ I am seeking **research internships, visiting positions, and postdocs**. Feel fr
 
 ### Awards
 
-- National doctoral scholarship
+- PhD national scholarship
 - International Photography Award (IPA) official selection
 - Bronze award of "Internet Plus" Competition
 
