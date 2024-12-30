@@ -2,7 +2,7 @@
 
 I am Jianqing Zhang, a second-year PhD student in Computer Science, co-supervised by [Yang Hua](https://scholar.google.com/citations?hl=zh-CN&user=N0tFi8MAAAAJ) at _Queen's University Belfast_, [Yang Liu](https://sites.google.com/site/yangliuveronica/) at _Tsinghua University_, and [Jian Cao](https://scholar.google.com/citations?hl=zh-CN&user=aEacdCQAAAAJ) at _Shanghai Jiao Tong University_. Previously, I was fortunate to work at [Shanghai Key Laboratory of Scalable Computing and Systems](https://tcloud.sjtu.edu.cn/) and earned my Master's degree in 2023 from _Shanghai Jiao Tong University_.
 
-My research interests include **Synthetic Dataset Generation**, **Large and Small Models Collaboration**, and **Federated Learning**. I am also a passionate photographer, always seeking to capture the beauty of the world through my lens.
+My research interests include **Synthetic Dataset Generation**, **Large and Small Models Collaboration**, **Model Personalization**, and **Federated Learning**. I am also a passionate photographer, always seeking to capture the beauty of the world through my lens.
 
 I am seeking **research internships, visiting positions, and postdocs**. Feel free to contact me if interested!
 
@@ -25,15 +25,11 @@ I am seeking **research internships, visiting positions, and postdocs**. Feel fr
 
 ### Featured Publications ([Google Scholar](https://scholar.google.com/citations?user=lppe2vwAAAAJ&hl=zh-CN), see [slides](./slides_for_summary.pdf) for technical details)
 
-**Stage Ⅳ Synthetic Dataset Generation**
+**Stage Ⅲ Synthetic Dataset Generation**
 - 🎉\[EMNLP'24\] **FuseGen: PLM Fusion for Data-Generation Based Zero-Shot Learning**. [\[paper\]](https://arxiv.org/abs/2406.12527) [\[code\]](https://github.com/LindaLydia/FuseGen)
   - Tianyuan Zou, Yang Liu, Peng Li, **Jianqing Zhang**, Jingjing Liu, Ya-Qin Zhang 
 
-**Stage Ⅲ: Large and Small Models Collaboration**
-- 🎉\[CVPR'24\] **An Upload-Efficient Scheme for Transferring Knowledge From a Server-Side Pre-trained Generator to Clients in Heterogeneous Federated Learning**. [\[paper\]](https://arxiv.org/abs/2403.15760) [\[code\]](https://github.com/TsingZ0/FedKTL)
-  - **Jianqing Zhang**, Yang Liu, Yang Hua, Jian Cao
-
-**Stage Ⅱ: Heterogeneous Federated Learning**
+**Stage Ⅱ: Large and Small Heterogeneous Models Collaboration**
 - **FedL2G: Learning to Guide Local Training in Heterogeneous Federated Learning**. [\[paper\]](https://arxiv.org/abs/2410.06490) [\[code\]](https://github.com/TsingZ0/FedL2G)
   - **Jianqing Zhang**, Yang Liu, Yang Hua, Jian Cao, Qiang Yang 
 - 🎉\[CVPR'24\] **An Upload-Efficient Scheme for Transferring Knowledge From a Server-Side Pre-trained Generator to Clients in Heterogeneous Federated Learning**. [\[paper\]](https://arxiv.org/abs/2403.15760) [\[code\]](https://github.com/TsingZ0/FedKTL)
