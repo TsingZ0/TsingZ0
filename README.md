@@ -63,9 +63,10 @@ I am seeking **research internships, visiting positions, and postdocs**. Feel fr
 
 ### Awards
 
-- PhD national scholarship
-- International Photography Award (IPA) official selection
-- Bronze award of "Internet Plus" Competition
+- Doctorate National Scholarship
+- Wenjun Wu Honorary Doctorate Fellowship in Artificial Intelligence
+- International Photography Award (IPA) Official Selection
+- Bronze Award of "Internet Plus" Competition
 
 
 ### Photography
