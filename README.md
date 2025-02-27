@@ -27,6 +27,10 @@ I am seeking **research internships, visiting positions, and postdocs**. Feel fr
 ### Featured Publications ([Google Scholar](https://scholar.google.com/citations?user=lppe2vwAAAAJ&hl=zh-CN), see [slides](./slides_for_summary.pdf) for technical details)
 
 **Stage Ⅲ Synthetic Dataset Generation**
+- **Differentially Private Synthetic Image Generation with Few-Shot Data and Generative APIs**. 
+  - **Jianqing Zhang**, Yang Liu, Jie Fu, Yang Hua, Tianyuan Zou, Jian Cao, Qiang Yang 
+- **Contrastive Private Data Synthesis via Weighted Multi-PLM Fusion**. [\[paper\]](https://arxiv.org/pdf/2502.00245)
+  - Tianyuan Zou, Yang Liu, Peng Li, Yufei Xiong, **Jianqing Zhang**, Jingjing Liu, Xiaozhou Ye, Ye Ouyang, Ya-Qin Zhang 
 - 🎉\[EMNLP'24\] **FuseGen: PLM Fusion for Data-Generation Based Zero-Shot Learning**. [\[paper\]](https://arxiv.org/abs/2406.12527) [\[code\]](https://github.com/LindaLydia/FuseGen)
   - Tianyuan Zou, Yang Liu, Peng Li, **Jianqing Zhang**, Jingjing Liu, Ya-Qin Zhang 
 
