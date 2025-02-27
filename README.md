@@ -35,7 +35,7 @@ I am seeking **research internships, visiting positions, and postdocs**. Feel fr
   - Tianyuan Zou, Yang Liu, Peng Li, **Jianqing Zhang**, Jingjing Liu, Ya-Qin Zhang 
 
 **Stage Ⅱ: Large and Small Heterogeneous Models Collaboration**
-- **FedL2G: Learning to Guide Local Training in Heterogeneous Federated Learning**. [\[paper\]](https://arxiv.org/abs/2410.06490) [\[code\]](https://github.com/TsingZ0/FedL2G)
+- **Adaptive Guidance for Local Training in Heterogeneous Federated Learning**. [\[paper\]](https://arxiv.org/abs/2410.06490) [\[code\]](https://github.com/TsingZ0/FedL2G)
   - **Jianqing Zhang**, Yang Liu, Yang Hua, Jian Cao, Qiang Yang 
 - 🎉\[CVPR'24\] **An Upload-Efficient Scheme for Transferring Knowledge From a Server-Side Pre-trained Generator to Clients in Heterogeneous Federated Learning**. [\[paper\]](https://arxiv.org/abs/2403.15760) [\[code\]](https://github.com/TsingZ0/FedKTL)
   - **Jianqing Zhang**, Yang Liu, Yang Hua, Jian Cao 
