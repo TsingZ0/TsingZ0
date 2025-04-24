@@ -13,6 +13,7 @@ I am seeking **research internships, visiting positions, and postdocs**. Feel fr
 - [ByteDance](https://www.bytedance.com/en) | *Machine Learning Platform - Security and Trust* 
 - [Institute for AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/en/) | *Synthetic Dataset Generation* | *Large and Small Models Collaboration* 
 - [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en/) | [*SANDS lab*](https://sands.kaust.edu.sa/#sands)
+- [Tencent](https://www.tencent.com/) | *Code Generation* | *Code Edit* | Our product: [*CodeBuddy*](https://copilot.tencent.com/)
 
 ### Open-source Software
 
