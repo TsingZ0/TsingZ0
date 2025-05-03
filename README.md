@@ -29,7 +29,7 @@ I am seeking **research internships, visiting positions, and postdocs**. Feel fr
 ### Featured Publications ([Google Scholar](https://scholar.google.com/citations?user=lppe2vwAAAAJ&hl=zh-CN), see [slides](./slides_for_summary.pdf) for technical details)
 
 **Stage Ⅲ Synthetic Dataset Generation**
-- 🎉\[ICML'25\] **Differentially Private Synthetic Image Generation with Few-Shot Data and Generative APIs**. 
+- 🎉\[ICML'25 Spotlight\] **Differentially Private Synthetic Image Generation with Few-Shot Data and Generative APIs**. 
   - **Jianqing Zhang**, Yang Liu, Jie Fu, Yang Hua, Tianyuan Zou, Jian Cao, Qiang Yang 
 - 🎉\[ICML'25\] **Contrastive Private Data Synthesis via Weighted Multi-PLM Fusion**. [\[paper\]](https://arxiv.org/pdf/2502.00245)
   - Tianyuan Zou, Yang Liu, Peng Li, Yufei Xiong, **Jianqing Zhang**, Jingjing Liu, Xiaozhou Ye, Ye Ouyang, Ya-Qin Zhang 
@@ -50,9 +50,9 @@ I am seeking **research internships, visiting positions, and postdocs**. Feel fr
   - **Jianqing Zhang**, Yang Hua, Jian Cao, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Haibing Guan 
 - 🎉\[ICCV'23\] **GPFL: Simultaneously Learning Generic and Personalized Feature Information for Personalized Federated Learning**. [\[paper\]](https://arxiv.org/pdf/2308.10279v3.pdf) [\[code\]](https://github.com/TsingZ0/GPFL)
   - **Jianqing Zhang**, Yang Hua, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Jian Cao, Haibing Guan 
-- 🎉\[KDD'23\] **FedCP: Separating Feature Information for Personalized Federated Learning via Conditional Policy**. [\[paper\]](https://arxiv.org/pdf/2307.01217v2.pdf) [\[code\]](https://github.com/TsingZ0/FedCP)
+- 🎉\[KDD'23 Oral\] **FedCP: Separating Feature Information for Personalized Federated Learning via Conditional Policy**. [\[paper\]](https://arxiv.org/pdf/2307.01217v2.pdf) [\[code\]](https://github.com/TsingZ0/FedCP)
   - **Jianqing Zhang**, Yang Hua, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Haibing Guan 
-- 🎉\[AAAI'23\] **FedALA: Adaptive Local Aggregation for Personalized Federated Learning**. [\[paper\]](https://arxiv.org/pdf/2212.01197v4.pdf) [\[code\]](https://github.com/TsingZ0/FedALA)
+- 🎉\[AAAI'23 Oral\] **FedALA: Adaptive Local Aggregation for Personalized Federated Learning**. [\[paper\]](https://arxiv.org/pdf/2212.01197v4.pdf) [\[code\]](https://github.com/TsingZ0/FedALA)
   - **Jianqing Zhang**, Yang Hua, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Haibing Guan 
 
 **Other Work**
