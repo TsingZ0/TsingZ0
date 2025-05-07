@@ -65,7 +65,7 @@ I am seeking **research internships, visiting positions, and postdocs**. Feel fr
 ### Service
 
 - Invited conference reviewer for NeurIPS'24, ICLR'25, ICML'25, KDD'25, etc.
-- Invited journal reviewer for IEEE TNNLS, ACM TKDD, ACM TIST, etc.
+- Invited journal reviewer for IEEE TMC, IEEE TNNLS, ACM TKDD, ACM TIST, etc.
 
 
 ### Awards
