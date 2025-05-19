@@ -29,7 +29,7 @@ I am seeking **research internships, visiting positions, and postdocs**. Feel fr
 ### Featured Publications ([Google Scholar](https://scholar.google.com/citations?user=lppe2vwAAAAJ&hl=zh-CN), see [slides](./slides_for_summary.pdf) for technical details)
 
 **Stage Ⅲ Synthetic Dataset Generation**
-- 🎉\[ICML'25 Spotlight\] **Synthetic Dataset Generation from Few-Shot Private Data via APIs**. [\[code\]](https://github.com/TsingZ0/PCE)
+- 🎉\[ICML'25 Spotlight\] **PCEvolve: Private Contrastive Evolution for Synthetic Dataset Generation via Few-Shot Private Data and Generative APIs**. [\[code\]](https://github.com/TsingZ0/PCE)
   - **Jianqing Zhang**, Yang Liu, Jie Fu, Yang Hua, Tianyuan Zou, Jian Cao, Qiang Yang 
 - 🎉\[ICML'25\] **Contrastive Private Data Synthesis via Weighted Multi-PLM Fusion**. [\[paper\]](https://arxiv.org/pdf/2502.00245)
   - Tianyuan Zou, Yang Liu, Peng Li, Yufei Xiong, **Jianqing Zhang**, Jingjing Liu, Xiaozhou Ye, Ye Ouyang, Ya-Qin Zhang 
