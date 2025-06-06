@@ -2,7 +2,7 @@
 
 I am Jianqing Zhang, a second-year PhD student in Computer Science, co-supervised by [Yang Liu](https://sites.google.com/site/yangliuveronica/) at _Tsinghua University_ and [Jian Cao](https://scholar.google.com/citations?hl=zh-CN&user=aEacdCQAAAAJ) at _Shanghai Jiao Tong University_. I have also had the privilege of collaborating with [Qiang Yang](https://scholar.google.com/citations?user=1LxWZLQAAAAJ&hl=en&oi=ao) at _HKUST_, [Zhenzhe Zheng](https://scholar.google.com/citations?hl=en&user=kx_5xxEAAAAJ) at _Shanghai Jiao Tong University_, and [Yang Hua](https://scholar.google.com/citations?hl=zh-CN&user=N0tFi8MAAAAJ) at _Queen's University Belfast_. Previously, I worked at the [Shanghai Key Laboratory of Scalable Computing and Systems](https://tcloud.sjtu.edu.cn/) and earned my Master's degree from _Shanghai Jiao Tong University_ in 2023.
 
-My research interests include **Code Generation**, **Synthetic Dataset Generation**, and **Federated Learning**. I am also a passionate photographer, always seeking to capture the beauty of the world through my lens.
+My research interests include **Code RLVR**, **Evolutional Data Generation**, and **Federated Learning**. I am also a passionate photographer, always seeking to capture the beauty of the world through my lens.
 
 I am seeking **research internships, visiting positions, and postdocs**. Feel free to contact me if interested!
 
@@ -18,7 +18,7 @@ I am seeking **research internships, visiting positions, and postdocs**. Feel fr
 ### Open-source Software
 
 - 🎉\[**diffusers**\] **State-of-the-art diffusion models**. [\[code\]](https://github.com/huggingface/diffusers/tree/v0.29.2-patch) | Contributor
-- 🎉\[**CoAutoGen**\] **Cloud-Edge Collaboration Platform for Automated Synthetic Dataset Generation**. [\[code\]](https://github.com/TsingZ0/EdgeAutoSyn)
+- 🎉\[**CoAutoGen**\] **Cloud-Edge Collaboration Platform for Automated Evolutional Data Generation**. [\[code\]](https://github.com/TsingZ0/EdgeAutoSyn)
 - 🎉\[JMLR'25\] \[**PFLlib (1K+ stars)**\] **PFLlib: A Beginner-Friendly and Comprehensive Personalized Federated Learning Library and Benchmark**. [\[paper\]](https://www.jmlr.org/papers/v26/23-1634.html) [\[code\]](https://github.com/TsingZ0/PFLlib)
   - **Jianqing Zhang**, Yang Liu, Yang Hua, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Jian Cao
 - 🎉\[KDD'25 Oral\] \[**HtFLlib**\] **HtFLlib: A Comprehensive Heterogeneous Federated Learning Library and Benchmark**. [\[code\]](https://github.com/TsingZ0/HtFL)
@@ -28,7 +28,7 @@ I am seeking **research internships, visiting positions, and postdocs**. Feel fr
 
 ### Featured Publications ([Google Scholar](https://scholar.google.com/citations?user=lppe2vwAAAAJ&hl=zh-CN), see [slides](./slides_for_summary.pdf) for technical details)
 
-**Stage Ⅲ Synthetic Dataset Generation**
+**Stage Ⅲ Evolutional Data Generation**
 - 🎉\[ICML'25 Spotlight\] **PCEvolve: Private Contrastive Evolution for Synthetic Dataset Generation via Few-Shot Private Data and Generative APIs**. [\[code\]](https://github.com/TsingZ0/PCE)
   - **Jianqing Zhang**, Yang Liu, Jie Fu, Yang Hua, Tianyuan Zou, Jian Cao, Qiang Yang 
 - 🎉\[ICML'25\] **Contrastive Private Data Synthesis via Weighted Multi-PLM Fusion**. [\[paper\]](https://arxiv.org/pdf/2502.00245)
