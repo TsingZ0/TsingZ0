@@ -18,7 +18,7 @@ I am seeking **research internships, visiting positions, and postdocs**. Feel fr
 ### Open-source Software
 
 - 🎉\[**diffusers**\] **State-of-the-art diffusion models**. [\[code\]](https://github.com/huggingface/diffusers/tree/v0.29.2-patch) | Contributor
-- 🎉\[**CoAutoGen**\] **Cloud-Edge Collaboration Platform for Automated Evolutional Data Generation**. [\[code\]](https://github.com/TsingZ0/EdgeAutoSyn)
+- 🎉\[**EvolveGen**\] **Evolutional Data Generation Platform**. [\[code\]](https://github.com/TsingZ0/EvolveGen)
 - 🎉\[JMLR'25\] \[**PFLlib (1K+ stars)**\] **PFLlib: A Beginner-Friendly and Comprehensive Personalized Federated Learning Library and Benchmark**. [\[paper\]](https://www.jmlr.org/papers/v26/23-1634.html) [\[code\]](https://github.com/TsingZ0/PFLlib)
   - **Jianqing Zhang**, Yang Liu, Yang Hua, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Jian Cao
 - 🎉\[KDD'25 Oral\] \[**HtFLlib**\] **HtFLlib: A Comprehensive Heterogeneous Federated Learning Library and Benchmark**. [\[code\]](https://github.com/TsingZ0/HtFL)
