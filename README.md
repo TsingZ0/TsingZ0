@@ -21,7 +21,7 @@ I am seeking **research internships, visiting positions, and postdocs**. Feel fr
 - 🎉\[**EvolveGen**\] **Evolutional Data Generation Platform**. [\[code\]](https://github.com/TsingZ0/EvolveGen)
 - 🎉\[JMLR'25\] \[**PFLlib (1K+ stars)**\] **PFLlib: A Beginner-Friendly and Comprehensive Personalized Federated Learning Library and Benchmark**. [\[paper\]](https://www.jmlr.org/papers/v26/23-1634.html) [\[code\]](https://github.com/TsingZ0/PFLlib)
   - **Jianqing Zhang**, Yang Liu, Yang Hua, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Jian Cao
-- 🎉\[KDD'25 Oral\] \[**HtFLlib**\] **HtFLlib: A Comprehensive Heterogeneous Federated Learning Library and Benchmark**. [\[paper\]](https://arxiv.org/abs/2506.05407) [\[code\]](https://github.com/TsingZ0/HtFL)
+- 🎉\[KDD'25 Oral\] \[**HtFLlib**\] **HtFLlib: A Comprehensive Heterogeneous Federated Learning Library and Benchmark**. [\[paper\]](http://arxiv.org/abs/2506.03954) [\[code\]](https://github.com/TsingZ0/HtFL)
   - **Jianqing Zhang**, Xinghao Wu, Yanbing Zhou, Xiaoting Sun, Qiqi Cai, Yang Liu, Yang Hua, Zhenzhe Zheng, Jian Cao, Qiang Yang
 - 🎉\[**FL-IoT**\] **Federated Learning Algorithms in IoT Environments**. [\[code\]](https://github.com/TsingZ0/FL-IoT)
 
