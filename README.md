@@ -21,7 +21,7 @@ I am seeking **research internships, visiting positions, and postdocs**. Feel fr
 - 🎉\[**EvolveGen**\] **Evolutional Data Generation Platform**. [\[code\]](https://github.com/TsingZ0/EvolveGen)
 - 🎉\[JMLR'25\] \[**PFLlib (1K+ stars)**\] **PFLlib: A Beginner-Friendly and Comprehensive Personalized Federated Learning Library and Benchmark**. [\[paper\]](https://www.jmlr.org/papers/v26/23-1634.html) [\[code\]](https://github.com/TsingZ0/PFLlib)
   - **Jianqing Zhang**, Yang Liu, Yang Hua, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Jian Cao
-- 🎉\[KDD'25 Oral\] \[**HtFLlib**\] **HtFLlib: A Comprehensive Heterogeneous Federated Learning Library and Benchmark**. [\[code\]](https://github.com/TsingZ0/HtFL)
+- 🎉\[KDD'25 Oral\] \[**HtFLlib**\] **HtFLlib: A Comprehensive Heterogeneous Federated Learning Library and Benchmark**. [\[paper\]](https://arxiv.org/abs/2506.05407) [\[code\]](https://github.com/TsingZ0/HtFL)
   - **Jianqing Zhang**, Xinghao Wu, Yanbing Zhou, Xiaoting Sun, Qiqi Cai, Yang Liu, Yang Hua, Zhenzhe Zheng, Jian Cao, Qiang Yang
 - 🎉\[**FL-IoT**\] **Federated Learning Algorithms in IoT Environments**. [\[code\]](https://github.com/TsingZ0/FL-IoT)
 
@@ -29,7 +29,7 @@ I am seeking **research internships, visiting positions, and postdocs**. Feel fr
 ### Featured Publications ([Google Scholar](https://scholar.google.com/citations?user=lppe2vwAAAAJ&hl=zh-CN), see [slides](./slides_for_summary.pdf) for technical details)
 
 **Stage Ⅲ Evolutional Data Generation**
-- 🎉\[ICML'25 Spotlight\] **PCEvolve: Private Contrastive Evolution for Synthetic Dataset Generation via Few-Shot Private Data and Generative APIs**. [\[code\]](https://github.com/TsingZ0/PCE)
+- 🎉\[ICML'25 Spotlight\] **PCEvolve: Private Contrastive Evolution for Synthetic Dataset Generation via Few-Shot Private Data and Generative APIs**. [\[paper\]](https://arxiv.org/abs/2506.05407) [\[code\]](https://github.com/TsingZ0/PCEvolve)
   - **Jianqing Zhang**, Yang Liu, Jie Fu, Yang Hua, Tianyuan Zou, Jian Cao, Qiang Yang 
 - 🎉\[ICML'25\] **Contrastive Private Data Synthesis via Weighted Multi-PLM Fusion**. [\[paper\]](https://arxiv.org/pdf/2502.00245)
   - Tianyuan Zou, Yang Liu, Peng Li, Yufei Xiong, **Jianqing Zhang**, Jingjing Liu, Xiaozhou Ye, Ye Ouyang, Ya-Qin Zhang 
