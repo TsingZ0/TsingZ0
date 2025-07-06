@@ -46,8 +46,7 @@ I am currently on the **job market** — feel free to reach out if you are inter
   - **Jianqing Zhang**, Yang Liu, Yang Hua, Jian Cao 
 - 🎉\[AAAI'24\] **FedTGP: Trainable Global Prototypes with Adaptive-Margin-Enhanced Contrastive Learning for Data and Model Heterogeneity in Federated Learning**. [\[paper\]](https://arxiv.org/abs/2401.03230) [\[code\]](https://github.com/TsingZ0/FedTGP)
   - **Jianqing Zhang**, Yang Liu, Yang Hua, Jian Cao 
-- 🎉\[NeurIPS'23\] **Eliminating Domain Bias for Federated Learning in Representation Space**. [\[paper\]](https://arxiv.org/abs/2311.14975) [\[code\]](https://github.com/TsingZ0/DBE
-)
+- 🎉\[NeurIPS'23\] **Eliminating Domain Bias for Federated Learning in Representation Space**. [\[paper\]](https://arxiv.org/abs/2311.14975) [\[code\]](https://github.com/TsingZ0/DBE)
   - **Jianqing Zhang**, Yang Hua, Jian Cao, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Haibing Guan 
 - 🎉\[ICCV'23\] **GPFL: Simultaneously Learning Generic and Personalized Feature Information for Personalized Federated Learning**. [\[paper\]](https://arxiv.org/pdf/2308.10279v3.pdf) [\[code\]](https://github.com/TsingZ0/GPFL)
   - **Jianqing Zhang**, Yang Hua, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Jian Cao, Haibing Guan 
