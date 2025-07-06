@@ -6,29 +6,28 @@ My research interests include **Code LLM + RL**, **Evolutional Data Generation**
 
 I am seeking **research internships, visiting positions, and postdocs**. Feel free to contact me if interested!
 
+I am currently on the **job market** — feel free to reach out if you are interested!
 
 
 ### Internships
 
-- [ByteDance](https://www.bytedance.com/en) | *Machine Learning Platform - Security and Trust* 
-- [Institute for AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/en/) | *Synthetic Dataset Generation* | *Large and Small Models Collaboration* 
-- [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en/) | [*SANDS lab*](https://sands.kaust.edu.sa/#sands)
-- [Tencent](https://www.tencent.com/) | *Code Generation* | *Code Edit* | Our product: [*CodeBuddy*](https://copilot.tencent.com/)
+- [ByteDance](https://www.bytedance.com/en) | *Machine Learning Platform - Security and Trust* | *Distributed Machine Learning*
+- [Institute for AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/en/) | *Synthetic Dataset Generation* | *Federated Learning* 
+- [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en/) | [*SANDS lab*](https://sands.kaust.edu.sa/#sands) | *Federated Learning on Device* 
+- [Tencent](https://www.tencent.com/) | Code LLM Group | Our product: [*CodeBuddy*](https://copilot.tencent.com/) | *Code Generation* | *Code Edit* 
 
 ### Open-source Software
 
 - 🎉\[**diffusers**\] **State-of-the-art diffusion models**. [\[code\]](https://github.com/huggingface/diffusers/tree/v0.29.2-patch) | Contributor
 - 🎉\[**EvolveGen**\] **Evolutional Data Generation Platform**. [\[code\]](https://github.com/TsingZ0/EvolveGen)
-- 🎉\[JMLR'25\] \[**PFLlib (1K+ stars)**\] **PFLlib: A Beginner-Friendly and Comprehensive Personalized Federated Learning Library and Benchmark**. [\[paper\]](https://www.jmlr.org/papers/v26/23-1634.html) [\[code\]](https://github.com/TsingZ0/PFLlib)
-  - **Jianqing Zhang**, Yang Liu, Yang Hua, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Jian Cao
-- 🎉\[KDD'25 Oral\] \[**HtFLlib**\] **HtFLlib: A Comprehensive Heterogeneous Federated Learning Library and Benchmark**. [\[paper\]](http://arxiv.org/abs/2506.03954) [\[code\]](https://github.com/TsingZ0/HtFL)
-  - **Jianqing Zhang**, Xinghao Wu, Yanbing Zhou, Xiaoting Sun, Qiqi Cai, Yang Liu, Yang Hua, Zhenzhe Zheng, Jian Cao, Qiang Yang
+- 🎉\[**PFLlib (1.7K+ stars)**\] **PFLlib: A Beginner-Friendly and Comprehensive Personalized Federated Learning Library and Benchmark**. [\[code\]](https://github.com/TsingZ0/PFLlib)
+- 🎉\[**HtFLlib**\] **HtFLlib: A Comprehensive Heterogeneous Federated Learning Library and Benchmark**. [\[code\]](https://github.com/TsingZ0/HtFL)
 - 🎉\[**FL-IoT**\] **Federated Learning Algorithms in IoT Environments**. [\[code\]](https://github.com/TsingZ0/FL-IoT)
 
 
 ### Featured Publications ([Google Scholar](https://scholar.google.com/citations?user=lppe2vwAAAAJ&hl=zh-CN), see [slides](./slides_for_summary.pdf) for technical details)
 
-**Stage Ⅲ Evolutional Data Generation**
+**Synthetic Data Generation**
 - 🎉\[ICML'25 Spotlight\] **PCEvolve: Private Contrastive Evolution for Synthetic Dataset Generation via Few-Shot Private Data and Generative APIs**. [\[paper\]](https://arxiv.org/abs/2506.05407) [\[code\]](https://github.com/TsingZ0/PCEvolve)
   - **Jianqing Zhang**, Yang Liu, Jie Fu, Yang Hua, Tianyuan Zou, Jian Cao, Qiang Yang 
 - 🎉\[ICML'25\] **Contrastive Private Data Synthesis via Weighted Multi-PLM Fusion**. [\[paper\]](https://arxiv.org/pdf/2502.00245) [\[code\]](https://github.com/LindaLydia/WASP)
@@ -36,15 +35,17 @@ I am seeking **research internships, visiting positions, and postdocs**. Feel fr
 - 🎉\[EMNLP'24\] **FuseGen: PLM Fusion for Data-Generation Based Zero-Shot Learning**. [\[paper\]](https://arxiv.org/abs/2406.12527) [\[code\]](https://github.com/LindaLydia/FuseGen)
   - Tianyuan Zou, Yang Liu, Peng Li, **Jianqing Zhang**, Jingjing Liu, Ya-Qin Zhang 
 
-**Stage Ⅱ: Large and Small Heterogeneous Models Collaboration**
+**Federated Learning**
+- 🎉\[JMLR'25\] **PFLlib: A Beginner-Friendly and Comprehensive Personalized Federated Learning Library and Benchmark**. [\[paper\]](https://www.jmlr.org/papers/v26/23-1634.html) [\[code\]](https://github.com/TsingZ0/PFLlib)
+  - **Jianqing Zhang**, Yang Liu, Yang Hua, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Jian Cao
+- 🎉\[KDD'25 Oral\] **HtFLlib: A Comprehensive Heterogeneous Federated Learning Library and Benchmark**. [\[paper\]](http://arxiv.org/abs/2506.03954) [\[code\]](https://github.com/TsingZ0/HtFL)
+  - **Jianqing Zhang**, Xinghao Wu, Yanbing Zhou, Xiaoting Sun, Qiqi Cai, Yang Liu, Yang Hua, Zhenzhe Zheng, Jian Cao, Qiang Yang
 - **Adaptive Guidance for Local Training in Heterogeneous Federated Learning**. [\[paper\]](https://arxiv.org/abs/2410.06490) [\[code\]](https://github.com/TsingZ0/FedL2G)
   - **Jianqing Zhang**, Yang Liu, Yang Hua, Jian Cao, Qiang Yang 
 - 🎉\[CVPR'24\] **An Upload-Efficient Scheme for Transferring Knowledge From a Server-Side Pre-trained Generator to Clients in Heterogeneous Federated Learning**. [\[paper\]](https://arxiv.org/abs/2403.15760) [\[code\]](https://github.com/TsingZ0/FedKTL)
   - **Jianqing Zhang**, Yang Liu, Yang Hua, Jian Cao 
 - 🎉\[AAAI'24\] **FedTGP: Trainable Global Prototypes with Adaptive-Margin-Enhanced Contrastive Learning for Data and Model Heterogeneity in Federated Learning**. [\[paper\]](https://arxiv.org/abs/2401.03230) [\[code\]](https://github.com/TsingZ0/FedTGP)
   - **Jianqing Zhang**, Yang Liu, Yang Hua, Jian Cao 
-
-**Stage Ⅰ: Personalized Federated Learning**
 - 🎉\[NeurIPS'23\] **Eliminating Domain Bias for Federated Learning in Representation Space**. [\[paper\]](https://arxiv.org/abs/2311.14975) [\[code\]](https://github.com/TsingZ0/DBE
 )
   - **Jianqing Zhang**, Yang Hua, Jian Cao, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Haibing Guan 
