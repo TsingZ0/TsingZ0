@@ -32,18 +32,20 @@ I am currently on the **job market** — feel free to reach out if you are inter
   - Tianyuan Zou, Yang Liu, Peng Li, Yufei Xiong, **Jianqing Zhang**, Jingjing Liu, Xiaozhou Ye, Ye Ouyang, Ya-Qin Zhang 
 - 🎉\[EMNLP'24\] **FuseGen: PLM Fusion for Data-Generation Based Zero-Shot Learning**. [\[paper\]](https://arxiv.org/abs/2406.12527) [\[code\]](https://github.com/LindaLydia/FuseGen)
   - Tianyuan Zou, Yang Liu, Peng Li, **Jianqing Zhang**, Jingjing Liu, Ya-Qin Zhang 
+- 🎉\[CVPR'24\] **An Upload-Efficient Scheme for Transferring Knowledge From a Server-Side Pre-trained Generator to Clients in Heterogeneous Federated Learning**. [\[paper\]](https://arxiv.org/abs/2403.15760) [\[code\]](https://github.com/TsingZ0/FedKTL)
+  - **Jianqing Zhang**, Yang Liu, Yang Hua, Jian Cao 
 
-**Federated Learning**
-- 🎉\[JMLR'25\] **PFLlib: A Beginner-Friendly and Comprehensive Personalized Federated Learning Library and Benchmark**. [\[paper\]](https://www.jmlr.org/papers/v26/23-1634.html) [\[code\]](https://github.com/TsingZ0/PFLlib)
-  - **Jianqing Zhang**, Yang Liu, Yang Hua, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Jian Cao
+**Heterogeneous Models Collaboration**
 - 🎉\[KDD'25 Oral\] **HtFLlib: A Comprehensive Heterogeneous Federated Learning Library and Benchmark**. [\[paper\]](http://arxiv.org/abs/2506.03954) [\[code\]](https://github.com/TsingZ0/HtFL)
   - **Jianqing Zhang**, Xinghao Wu, Yanbing Zhou, Xiaoting Sun, Qiqi Cai, Yang Liu, Yang Hua, Zhenzhe Zheng, Jian Cao, Qiang Yang
 - **Adaptive Guidance for Local Training in Heterogeneous Federated Learning**. [\[paper\]](https://arxiv.org/abs/2410.06490) [\[code\]](https://github.com/TsingZ0/FedL2G)
   - **Jianqing Zhang**, Yang Liu, Yang Hua, Jian Cao, Qiang Yang 
-- 🎉\[CVPR'24\] **An Upload-Efficient Scheme for Transferring Knowledge From a Server-Side Pre-trained Generator to Clients in Heterogeneous Federated Learning**. [\[paper\]](https://arxiv.org/abs/2403.15760) [\[code\]](https://github.com/TsingZ0/FedKTL)
-  - **Jianqing Zhang**, Yang Liu, Yang Hua, Jian Cao 
 - 🎉\[AAAI'24\] **FedTGP: Trainable Global Prototypes with Adaptive-Margin-Enhanced Contrastive Learning for Data and Model Heterogeneity in Federated Learning**. [\[paper\]](https://arxiv.org/abs/2401.03230) [\[code\]](https://github.com/TsingZ0/FedTGP)
   - **Jianqing Zhang**, Yang Liu, Yang Hua, Jian Cao 
+
+**Personalized Federated Learning**
+- 🎉\[JMLR'25\] **PFLlib: A Beginner-Friendly and Comprehensive Personalized Federated Learning Library and Benchmark**. [\[paper\]](https://www.jmlr.org/papers/v26/23-1634.html) [\[code\]](https://github.com/TsingZ0/PFLlib)
+  - **Jianqing Zhang**, Yang Liu, Yang Hua, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Jian Cao
 - 🎉\[NeurIPS'23\] **Eliminating Domain Bias for Federated Learning in Representation Space**. [\[paper\]](https://arxiv.org/abs/2311.14975) [\[code\]](https://github.com/TsingZ0/DBE)
   - **Jianqing Zhang**, Yang Hua, Jian Cao, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Haibing Guan 
 - 🎉\[ICCV'23\] **GPFL: Simultaneously Learning Generic and Personalized Feature Information for Personalized Federated Learning**. [\[paper\]](https://arxiv.org/pdf/2308.10279v3.pdf) [\[code\]](https://github.com/TsingZ0/GPFL)
