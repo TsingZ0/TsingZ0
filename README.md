@@ -23,7 +23,7 @@ I am currently on the **job market** — feel free to reach out if you are inter
 - 🎉\[**FL-IoT**\] **Federated Learning Algorithms in IoT Environments**. [\[code\]](https://github.com/TsingZ0/FL-IoT)
 
 
-### Featured Publications ([Google Scholar](https://scholar.google.com/citations?user=lppe2vwAAAAJ&hl=zh-CN), see [slides](./slides_for_summary.pdf) for technical details)
+### Featured Publications ([Google Scholar](https://scholar.google.com/citations?user=lppe2vwAAAAJ), see [slides](./slides_for_summary.pdf) for technical details)
 
 **Synthetic Data Generation**
 - 🎉\[ICML'25 Spotlight\] **PCEvolve: Private Contrastive Evolution for Synthetic Dataset Generation via Few-Shot Private Data and Generative APIs**. [\[paper\]](https://arxiv.org/abs/2506.05407) [\[code\]](https://github.com/TsingZ0/PCEvolve)
