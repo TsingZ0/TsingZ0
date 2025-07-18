@@ -2,7 +2,7 @@
 
 I am Jianqing Zhang, a second-year PhD student in Computer Science, co-supervised by [Yang Liu](https://sites.google.com/site/yangliuveronica/) at _Tsinghua University_ and [Jian Cao](https://scholar.google.com/citations?hl=zh-CN&user=aEacdCQAAAAJ) at _Shanghai Jiao Tong University_. I have also had the privilege of collaborating with [Qiang Yang](https://scholar.google.com/citations?user=1LxWZLQAAAAJ&hl=en&oi=ao) at _HKUST_, [Zhenzhe Zheng](https://scholar.google.com/citations?hl=en&user=kx_5xxEAAAAJ) at _Shanghai Jiao Tong University_, and [Yang Hua](https://scholar.google.com/citations?hl=zh-CN&user=N0tFi8MAAAAJ) at _Queen's University Belfast_. Previously, I worked at the [Shanghai Key Laboratory of Scalable Computing and Systems](https://tcloud.sjtu.edu.cn/) and earned my Master's degree from _Shanghai Jiao Tong University_ in 2023.
 
-My research interests include **Domain Adaptation**, **Model Merging**, and **Personalization** in the **Code LLM**, **Synthetic Data Generation**, **Federated Learning**, and **Recommender System** fields. I am also a passionate photographer, always seeking to capture the beauty of the world through my lens.
+My research interest is **Data-Centric Vertical Model Optimization** in the **Code LLM**, **Synthetic Data Generation**, **Federated Learning**, and **Recommender System** fields. I am also a passionate photographer, always seeking to capture the beauty of the world through my lens.
 
 I am currently on the **job market** — feel free to reach out if you are interested!
 
