@@ -70,8 +70,9 @@ I am currently on the **job market** — feel free to reach out if you are inter
 
 ### Awards
 
-- Doctorate National Scholarship
+- Youth Talent of China Association for Science and Technology (Chinese Association for Artificial Intelligence，CAAI)
 - Wenjun Wu Honorary Doctorate Fellowship in Artificial Intelligence
+- Doctorate National Scholarship
 - International Photography Award (IPA) Official Selection
 - Bronze Award of "Internet Plus" Competition
 
