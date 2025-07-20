@@ -65,7 +65,7 @@ I am currently on the **job market** — feel free to reach out if you are inter
 ### Service
 
 - Invited conference reviewer for NeurIPS'24, ICLR'25, ICML'25, KDD'25, etc.
-- Invited journal reviewer for IEEE TMC, IEEE TNNLS, ACM TKDD, ACM TIST, etc.
+- Invited journal reviewer for IEEE TPAMI, IEEE TMC, IEEE TNNLS, ACM TKDD, ACM TIST, etc.
 
 
 ### Awards
