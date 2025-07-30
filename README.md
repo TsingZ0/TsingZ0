@@ -62,19 +62,22 @@ I am currently on the **job market** — feel free to reach out if you are inter
   - **Jianqing Zhang**, Dongjing Wang, Dongjin Yu 
 
 
-### Service
-
-- Invited conference reviewer for NeurIPS'24, ICLR'25, ICML'25, KDD'25, etc.
-- Invited journal reviewer for IEEE TPAMI, IEEE TMC, IEEE TNNLS, ACM TKDD, ACM TIST, etc.
-
-
 ### Awards
 
+- KDD Best Papaer Runner Up Award (Paper: HtFLlib)
+- World Artificial Intelligence Conference (WAIC) Youth Outstanding Paper Award Top 40
 - Youth Talent of China Association for Science and Technology (China Association for Artificial Intelligence，CAAI)
 - Wenjun Wu Honorary Doctorate Fellowship in Artificial Intelligence
 - Doctorate National Scholarship
 - International Photography Award (IPA) Official Selection
 - Bronze Award of "Internet Plus" Competition
+
+
+### Service
+
+- Invited program commitee member of AAAI'26
+- Invited conference reviewer for NeurIPS'24, ICLR'25, ICML'25, KDD'25, etc.
+- Invited journal reviewer for IEEE TPAMI, IEEE TMC, IEEE TNNLS, ACM TKDD, ACM TIST, etc.
 
 
 ### Photography
