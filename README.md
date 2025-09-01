@@ -20,6 +20,7 @@ I am currently on the **job market** — feel free to reach out if you are inter
 - 🎉\[**EvolveGen**\] **Evolutional Data Generation Platform**. [\[code\]](https://github.com/TsingZ0/EvolveGen)
 - 🎉\[**PFLlib (1.7K+ stars)**\] **PFLlib: A Beginner-Friendly and Comprehensive Personalized Federated Learning Library and Benchmark**. [\[code\]](https://github.com/TsingZ0/PFLlib)
 - 🎉\[**HtFLlib**\] **HtFLlib: A Comprehensive Heterogeneous Federated Learning Library and Benchmark**. [\[code\]](https://github.com/TsingZ0/HtFL)
+- 🎉\[**HtFL-OnDevice**\] **HtFL-OnDevice: A Practical Platform for Heterogeneous Federated Learning on Real Heterogeneous Devices**. [\[code\]](https://github.com/TsingZ0/HtFL-OnDevice)
 - 🎉\[**FL-IoT**\] **Federated Learning Algorithms in IoT Environments**. [\[code\]](https://github.com/TsingZ0/FL-IoT)
 
 
