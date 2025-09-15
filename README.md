@@ -82,7 +82,7 @@ I am currently on the **job market** — feel free to reach out if you are inter
 
 - Invited program commitee member of AAAI'26
 - Invited conference reviewer for NeurIPS'24, ICLR'25, ICML'25, KDD'25, etc.
-- Invited journal reviewer for IEEE TPAMI, IEEE TMC, IEEE TNNLS, ACM TKDD, ACM TIST, etc.
+- Invited journal reviewer for IEEE TPAMI, IEEE TDSC, IEEE TMC, IEEE TNNLS, ACM TKDD, ACM TIST, etc.
 
 
 ### Photography
