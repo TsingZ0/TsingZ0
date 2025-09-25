@@ -1,8 +1,8 @@
 ### Biography
 
-I am Jianqing Zhang, a second-year PhD student in Computer Science, co-supervised by [Yang Liu](https://sites.google.com/site/yangliuveronica/) at _The Hong Kong Polytechnic University_ and [Jian Cao](https://scholar.google.com/citations?hl=zh-CN&user=aEacdCQAAAAJ) at _Shanghai Jiao Tong University_. I have also had the privilege of collaborating with [Qiang Yang](https://scholar.google.com/citations?user=1LxWZLQAAAAJ&hl=en&oi=ao) at _The Hong Kong Polytechnic University_, [Zhenzhe Zheng](https://scholar.google.com/citations?hl=en&user=kx_5xxEAAAAJ) at _Shanghai Jiao Tong University_, and [Yang Hua](https://scholar.google.com/citations?hl=zh-CN&user=N0tFi8MAAAAJ) at _Queen's University Belfast_. Previously, I worked at the [Shanghai Key Laboratory of Scalable Computing and Systems](https://tcloud.sjtu.edu.cn/) and earned my Master's degree from _Shanghai Jiao Tong University_ in 2023.
+I am Jianqing Zhang, a third-year PhD student in Computer Science, co-supervised by [Yang Liu](https://sites.google.com/site/yangliuveronica/) at _The Hong Kong Polytechnic University_ and [Jian Cao](https://scholar.google.com/citations?hl=zh-CN&user=aEacdCQAAAAJ) at _Shanghai Jiao Tong University_. I have also had the privilege of collaborating with [Qiang Yang](https://scholar.google.com/citations?user=1LxWZLQAAAAJ&hl=en&oi=ao) at _The Hong Kong Polytechnic University_, [Zhenzhe Zheng](https://scholar.google.com/citations?hl=en&user=kx_5xxEAAAAJ) at _Shanghai Jiao Tong University_, and [Yang Hua](https://scholar.google.com/citations?hl=zh-CN&user=N0tFi8MAAAAJ) at _Queen's University Belfast_. Previously, I worked at the [Shanghai Key Laboratory of Scalable Computing and Systems](https://tcloud.sjtu.edu.cn/) and earned my Master's degree from _Shanghai Jiao Tong University_ in 2023.
 
-My research interest is **Data-Centric Model Adaptation** in the **Code LLM Reinforcement Learning**, **Synthetic Data Generation**, **Federated Learning**, and **Recommender System** fields. I am also a passionate photographer, always seeking to capture the beauty of the world through my lens.
+My research interests include **Data-Centric Model Adaptation** in the fields of **Code LLM Reinforcement Learning**, **Synthetic Data Generation**, **Federated Learning**, and **Recommender Systems**. I am also a passionate photographer, always seeking to capture the beauty of the world through my lens.
 
 I am currently on the **job market** — feel free to reach out if you are interested!
 
@@ -27,6 +27,9 @@ I am currently on the **job market** — feel free to reach out if you are inter
 ### Featured Publications ([Google Scholar](https://scholar.google.com/citations?user=lppe2vwAAAAJ), see [slides](./slides_for_summary.pdf) for technical details)
 
 **Code LLM Reinforcement Learning**
+
+- **Correcting LLM-Generated Code Errors Type by Type Like Humans via Adaptive Progressive Preference Optimization**. 
+  - **Jianqing Zhang**, Wei Xia, Hande Dong, Qiang Lin, Jian Cao
 
 *Three papers are currently under authorization review by Tencent before publication.*
 
@@ -69,7 +72,7 @@ I am currently on the **job market** — feel free to reach out if you are inter
 
 ### Awards
 
-- KDD Best Papaer Runner Up Award (Paper: HtFLlib)
+- KDD Best Paper Runner Up Award (Paper: HtFLlib)
 - World Artificial Intelligence Conference (WAIC) Youth Outstanding Paper Award Top 40
 - Youth Talent of China Association for Science and Technology (China Association for Artificial Intelligence，CAAI)
 - Wenjun Wu Honorary Doctorate Fellowship in Artificial Intelligence
@@ -80,7 +83,7 @@ I am currently on the **job market** — feel free to reach out if you are inter
 
 ### Service
 
-- Invited program commitee member of AAAI'26
+- Invited program committee member of AAAI'26
 - Invited conference reviewer for NeurIPS'24, ICLR'25, ICML'25, KDD'25, etc.
 - Invited journal reviewer for IEEE TPAMI, IEEE TDSC, IEEE TMC, IEEE TNNLS, ACM TKDD, ACM TIST, etc.
 
