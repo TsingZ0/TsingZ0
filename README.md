@@ -12,7 +12,7 @@ I am currently on the **job market** — feel free to reach out if you are inter
 - [ByteDance](https://www.bytedance.com/en) | *Machine Learning Platform - Security and Trust* | *Distributed Machine Learning*
 - [Institute for AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/en/) | *Synthetic Dataset Generation* | *Federated Learning* 
 - [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en/) | [*SANDS lab*](https://sands.kaust.edu.sa/#sands) | *Federated Learning on Device* 
-- [Tencent](https://www.tencent.com/) | Code Model Group | Our product: [*CodeBuddy*](https://copilot.tencent.com/) | *Code Generation* | *Code Edit* 
+- [Tencent](https://www.tencent.com/) | Code Model Group | Our product: [*CodeBuddy*](https://www.codebuddy.com/) | *Code Generation* | *Code Edit* 
 
 ### Open-source Software
 
