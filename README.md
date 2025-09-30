@@ -28,11 +28,11 @@ I am currently on the **job market** — feel free to reach out if you are inter
 
 **Code LLM Reinforcement Learning**
 
-- **Correcting LLM-Generated Code Errors Type by Type Like Humans via Adaptive Progressive Preference Optimization**. 
+- **AP2O: Correcting LLM-Generated Code Errors Type by Type Like Humans via Adaptive Progressive Preference Optimization**. 
 
     **Jianqing Zhang**, Wei Xia, Hande Dong, Qiang Lin, Jian Cao
 
-- **Group Adaptive Policy Optimization for Code Models**. 
+- **GAPO: Group Adaptive Policy Optimization for Code Models**. 
 
     **Jianqing Zhang**, Wei Xia, Hande Dong, Qiang Lin, Jian Cao
 
