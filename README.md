@@ -28,7 +28,7 @@ I am currently on the **job market** — feel free to reach out if you are inter
 
 **Code LLM Reinforcement Learning**
 
-- **AP2O: Correcting LLM-Generated Code Errors Type by Type Like Humans via Adaptive Progressive Preference Optimization**. [\[paper\]]() [\[code\]](https://github.com/TsingZ0/AP2O)
+- **AP2O: Correcting LLM-Generated Code Errors Type by Type Like Humans via Adaptive Progressive Preference Optimization**. [\[paper\]](https://arxiv.org/abs/2510.02393) [\[code\]](https://github.com/TsingZ0/AP2O)
 
     **Jianqing Zhang**, Wei Xia, Hande Dong, Qiang Lin, Jian Cao
 
