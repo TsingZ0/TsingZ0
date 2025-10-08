@@ -32,11 +32,11 @@ I am currently on the **job market** — feel free to reach out if you are inter
 
     **Jianqing Zhang**, Wei Xia, Hande Dong, Qiang Lin, Jian Cao
 
-- **GAPO: Group Adaptive Policy Optimization for Code Models**. 
+- **GAPO: Group Adaptive Policy Optimization for Next Edit Suggestion**. 
 
     **Jianqing Zhang**, Wei Xia, Hande Dong, Qiang Lin, Jian Cao
 
-- **Plug-and-Play Data Module: Adaptive Replay of Ambiguous Data for Reinforcement Learning in Code Models**. 
+- **Plug-and-Play Data Module: Adaptive Replay of Ambiguous Data for Reinforcement Learning in Next Edit Suggestion**. 
 
     **Jianqing Zhang**, Wei Xia, Hande Dong, Qiang Lin, Jian Cao
 
