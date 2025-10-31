@@ -32,7 +32,7 @@ I am currently on the **job market** — feel free to reach out if you are inter
 
     **Jianqing Zhang**, Wei Xia, Hande Dong, Qiang Lin, Jian Cao
 
-- **GAPO: Group Adaptive Policy Optimization for Code Edit**. 
+- **GAPO: Group Adaptive Policy Optimization for Code Edit**. [\[paper\]](https://arxiv.org/abs/2510.21830) [\[code\]](https://github.com/TsingZ0/verl-GAPO)
 
     **Jianqing Zhang**, Wei Xia, Hande Dong, Qiang Lin, Jian Cao
 
