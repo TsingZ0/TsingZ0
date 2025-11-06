@@ -4,8 +4,6 @@ I am Jianqing Zhang, a third-year PhD student in Computer Science, co-supervised
 
 My research interests include **Data-Centric Model Adaptation** in the fields of **Code LLM Reinforcement Learning**, **Synthetic Data Generation**, **Federated Learning**, and **Recommender Systems**. I am also a passionate photographer, always seeking to capture the beauty of the world through my lens.
 
-I am currently on the **job market** — feel free to reach out if you are interested!
-
 
 ### Internships
 
