@@ -30,7 +30,7 @@ My research interests include **Data-Centric Model Adaptation** in the fields of
 
     **Jianqing Zhang**, Wei Xia, Hande Dong, Qiang Lin, Jian Cao
 
-- **GAPO: Group Adaptive Policy Optimization for Code Edit**. [\[paper\]](https://arxiv.org/abs/2510.21830) [\[code\]](https://github.com/TsingZ0/verl-GAPO)
+- **GAPO: Robust Advantage Estimation for Real-World Code LLMs**. [\[paper\]](https://arxiv.org/abs/2510.21830) [\[code\]](https://github.com/TsingZ0/verl-GAPO)
 
     **Jianqing Zhang**, Wei Xia, Hande Dong, Qiang Lin, Jian Cao
 
