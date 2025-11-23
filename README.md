@@ -26,7 +26,7 @@ My research interests include **Data-Centric Model Adaptation** in the fields of
 
 **Code LLM Reinforcement Learning**
 
-- **AP2O: Correcting LLM-Generated Code Errors Type by Type Like Humans via Adaptive Progressive Preference Optimization**. [\[paper\]](https://arxiv.org/abs/2510.02393) [\[code\]](https://github.com/TsingZ0/AP2O)
+- **AP2O-Coder: Human-Inspired Progressive Optimization to Fix LLM Code Errors**. [\[paper\]](https://arxiv.org/abs/2510.02393) [\[code\]](https://github.com/TsingZ0/AP2O)
 
     **Jianqing Zhang**, Wei Xia, Hande Dong, Qiang Lin, Jian Cao
 
