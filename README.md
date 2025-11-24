@@ -32,7 +32,7 @@ My research interests include **Data-Centric Model Adaptation** in the fields of
 
 - **GAPO: Robust Advantage Estimation for Real-World Code LLMs**. [\[paper\]](https://arxiv.org/abs/2510.21830) [\[code\]](https://github.com/TsingZ0/verl-GAPO)
 
-    **Jianqing Zhang**, Wei Xia, Hande Dong, Qiang Lin, Jian Cao
+    **Jianqing Zhang**, Zhezheng Hao, Wei Xia, Hande Dong, Hong Wang, Chenxing Wei, Yuyan Zhou, Yubin Qi, Qiang Lin, Jian Cao
 
 - **Plug-and-Play Data Module: Adaptive Replay of Ambiguous Data for Reinforcement Learning in Code Edit**. 
 
