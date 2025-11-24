@@ -16,7 +16,7 @@ My research interests include **Data-Centric Model Adaptation** in the fields of
 
 - 🎉\[**diffusers**\] State-of-the-art diffusion models. [\[code\]](https://github.com/huggingface/diffusers/tree/v0.29.2-patch) | Contributor
 - 🎉\[**EvolveGen**\] Evolutional Data Generation Platform. [\[code\]](https://github.com/TsingZ0/EvolveGen)
-- 🎉\[**PFLlib, 1.9K+ stars**\] PFLlib: A Beginner-Friendly and Comprehensive Personalized Federated Learning Library and Benchmark. [\[code\]](https://github.com/TsingZ0/PFLlib)
+- 🎉\[**PFLlib, 2K+ stars**\] PFLlib: A Beginner-Friendly and Comprehensive Personalized Federated Learning Library and Benchmark. [\[code\]](https://github.com/TsingZ0/PFLlib)
 - 🎉\[**HtFLlib**\] HtFLlib: A Comprehensive Heterogeneous Federated Learning Library and Benchmark. [\[code\]](https://github.com/TsingZ0/HtFL)
 - 🎉\[**HtFL-OnDevice**\] HtFL-OnDevice: A Practical Platform for Heterogeneous Federated Learning on Real Heterogeneous Devices. [\[code\]](https://github.com/TsingZ0/HtFL-OnDevice)
 - 🎉\[**FL-IoT**\] Federated Learning Algorithms in IoT Environments. [\[code\]](https://github.com/TsingZ0/FL-IoT)
