@@ -34,7 +34,7 @@ My research interests include **Data-Centric Model Adaptation** in the fields of
 
     **Jianqing Zhang**, Zhezheng Hao, Wei Xia, Hande Dong, Hong Wang, Chenxing Wei, Yuyan Zhou, Yubin Qi, Qiang Lin, Jian Cao
 
-- **Plug-and-Play Data Module: Adaptive Replay of Ambiguous Data for Code Edit RL**. 
+- **Plug-and-Play Data Module: Adaptive Ambiguous Data Replay for Code Edit RL**. 
 
     **Jianqing Zhang**, Wei Xia, Hande Dong, Qiang Lin, Jian Cao
 
