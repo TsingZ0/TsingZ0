@@ -10,7 +10,8 @@ My research interests include **Data-Centric Model Adaptation** in the fields of
 - [ByteDance](https://www.bytedance.com/en) | Machine Learning Platform - Security and Trust | *Distributed Machine Learning*
 - [Tsinghua University](https://www.tsinghua.edu.cn/en/) | [AIR Institute](https://air.tsinghua.edu.cn/en/) | *Synthetic Dataset Generation* | *Federated Learning* 
 - [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en/) | [SANDS Lab](https://sands.kaust.edu.sa/#sands) | *Federated Learning on Device* 
-- [Tencent](https://www.tencent.com/) | [CodeBuddy](https://www.codebuddy.ai/)'s AI Model Group | *Code LLM Reinforcement Learning*
+- [Tencent](https://www.tencent.com/) | [CodeBuddy](https://www.codebuddy.ai/)'s AI Model Group | *Code LLM/Agent Reinforcement Learning*
+- [Alibaba](https://www.alibaba.com/) | [Safety AGI Lab](https://s.alibaba.com/) | *Code LLM Safety*, *Automated Code Vulnerability Detection and Repair*
 
 ### Open-source Software
 
