@@ -31,11 +31,11 @@ My research interests include **Code LLM Reinforcement Learning**, **Synthetic D
 
     **Jianqing Zhang**, Wei Xia, Hande Dong, Qiang Lin, Jian Cao
 
-- **GAPO: Robust Advantage Estimation for Real-World Code LLMs**. [\[paper\]](https://arxiv.org/abs/2510.21830) [\[code\]](https://github.com/TsingZ0/verl-GAPO)
+- 🎉\[ACL'26\] **GAPO: Robust Advantage Estimation for Real-World Code LLMs**. [\[paper\]](https://arxiv.org/abs/2510.21830) [\[code\]](https://github.com/TsingZ0/verl-GAPO)
 
     **Jianqing Zhang**, Zhezheng Hao, Wei Xia, Hande Dong, Hong Wang, Chenxing Wei, Yuyan Zhou, Yubin Qi, Qiang Lin, Jian Cao
 
-- **Plug-and-Play Data Module for Code RL: Adaptive Ambiguity Replay**. 
+- 🎉\[ACL'26\] **Plug-and-Play Data Module for Code RL: Adaptive Ambiguity Replay**. 
 
     **Jianqing Zhang**, Wei Xia, Hande Dong, Qiang Lin, Jian Cao
 
