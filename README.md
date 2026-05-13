@@ -2,8 +2,14 @@
 
 I am Jianqing Zhang, a third-year PhD student in Computer Science, co-supervised by [Yang Liu](https://sites.google.com/site/yangliuveronica/) at _The Hong Kong Polytechnic University_ and [Jian Cao](https://scholar.google.com/citations?hl=zh-CN&user=aEacdCQAAAAJ) at _Shanghai Jiao Tong University_. I have also had the privilege of collaborating with [Qiang Yang](https://scholar.google.com/citations?user=1LxWZLQAAAAJ&hl=en&oi=ao) at _The Hong Kong Polytechnic University_, [Zhenzhe Zheng](https://scholar.google.com/citations?hl=en&user=kx_5xxEAAAAJ) at _Shanghai Jiao Tong University_, and [Yang Hua](https://scholar.google.com/citations?hl=zh-CN&user=N0tFi8MAAAAJ) at _Queen's University Belfast_. Previously, I worked at the [Shanghai Key Laboratory of Scalable Computing and Systems](https://tcloud.sjtu.edu.cn/) and earned my Master's degree from _Shanghai Jiao Tong University_ in 2023.
 
-My research interests include **Code LLM Reinforcement Learning**, **Synthetic Data Generation**, **Federated Learning**, and **Recommender Systems**. I am also a passionate photographer, always seeking to capture the beauty of the world through my lens.
+My research interests include **Code LLM Reinforcement Learning**, **Synthetic Data Generation**, **Federated Learning**, and **Recommender Systems**. I am also a passionate photographer, always seeking to capture the beauty of the world through my lens. 
 
+I have built an exchange platform for top-tier AI talents, encompassing both industry and academia. Like-minded peers are welcome to join us to grow together and lead the wave of AI innovation. 
+
+
+### Social Media
+
+- [RedNote (Xiaohongshu)](https://xhslink.com/m/2pmrhm8qUET)
 
 ### Internships
 
@@ -31,11 +37,11 @@ My research interests include **Code LLM Reinforcement Learning**, **Synthetic D
 
     **Jianqing Zhang**, Wei Xia, Hande Dong, Qiang Lin, Jian Cao
 
-- 🎉\[ACL'26\] **GAPO: Robust Advantage Estimation for Real-World Code LLMs**. [\[paper\]](https://arxiv.org/abs/2510.21830) [\[code\]](https://github.com/TsingZ0/verl-GAPO)
+- **GAPO: Robust Advantage Estimation for Real-World Code LLMs**. [\[paper\]](https://arxiv.org/abs/2510.21830) [\[code\]](https://github.com/TsingZ0/verl-GAPO)
 
     **Jianqing Zhang**, Zhezheng Hao, Wei Xia, Hande Dong, Hong Wang, Chenxing Wei, Yuyan Zhou, Yubin Qi, Qiang Lin, Jian Cao
 
-- 🎉\[ACL'26\] **Plug-and-Play Data Module for Code RL: Adaptive Ambiguity Replay**. 
+- **Plug-and-Play Data Module for Code RL: Adaptive Ambiguity Replay**. 
 
     **Jianqing Zhang**, Wei Xia, Hande Dong, Qiang Lin, Jian Cao
 
