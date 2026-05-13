@@ -4,7 +4,7 @@ I am Jianqing Zhang, a third-year PhD student in Computer Science, co-supervised
 
 My research interests include **Code LLM Reinforcement Learning**, **Synthetic Data Generation**, **Federated Learning**, and **Recommender Systems**. I am also a passionate photographer, always seeking to capture the beauty of the world through my lens. 
 
-I have built an exchange platform for top-tier AI talents, encompassing both industry and academia. Like-minded peers are welcome to join us to grow together and lead the wave of AI innovation. 
+I have built **a platform for top-tier AI talents**, encompassing both industry and academia. Like-minded peers are welcome to join us to grow together and lead the wave of AI innovation. 
 
 
 ### Social Media
